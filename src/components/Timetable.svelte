@@ -31,6 +31,7 @@
     }
 
     .header {
+        text-align: center;
         justify-self: center;
         padding-bottom: .5em;
         border-bottom: 1px solid #dfdfdf;
