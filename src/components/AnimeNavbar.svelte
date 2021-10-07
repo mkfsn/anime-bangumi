@@ -1,6 +1,6 @@
 <script lang="ts">
     import {Anime} from "../anime";
-    import AnimeCard from "./AnimeCard.svelte";
+    import AnimeNavbarItem from "./AnimeNavbarItem.svelte";
 
     export let animeList: Anime[];
 
@@ -50,7 +50,7 @@
     {#each animeGroups as [date, animeList]}
         <h1>{date}</h1>
         {#each animeList as anime}
-            <AnimeCard anime={anime}/>
+            <AnimeNavbarItem anime={anime}/>
         {/each}
     {/each}
 </div>
