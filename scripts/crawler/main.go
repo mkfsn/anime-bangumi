@@ -2,6 +2,7 @@ package main
 
 import (
 	"encoding/json"
+	"errors"
 	"flag"
 	"fmt"
 	"log"
@@ -48,6 +49,10 @@ type Anime struct {
 	Images    []Image          `json:"images"`
 }
 
+var (
+	errSkippable = errors.New("skippable error")
+)
+
 func defaultYear() int {
 	return time.Now().Year()
 }
@@ -77,7 +82,9 @@ func main() {
 
 	c.OnHTML("div.card-like.acgs-anime", func(e *colly.HTMLElement) {
 		anime, err := parseAnime(e.DOM, year, month)
-		if err != nil {
+		if errors.Is(err, errSkippable) {
+			return
+		} else if err != nil {
 			log.Fatalf("failed to parse anime: %v\n", err)
 		}
 
@@ -110,7 +117,9 @@ func parseAnime(dom *goquery.Selection, year, month int) (Anime, error) {
 	anime.Name = parseAnimeName(dom.Find(".anime_info.anime_names.site-content-float"))
 
 	anime.OnAir, err = parseAnimeOnAir(dom.Find(".anime_info.site-content-float"), year, month)
-	if err != nil {
+	if errors.Is(err, errSkippable) {
+		return anime, err
+	} else if err != nil {
 		log.Fatalf("failed to parse on air time: %v\n", err)
 	}
 
@@ -189,8 +198,7 @@ func parseAnimeOnAir(s *goquery.Selection, year, month int) (OnAir, error) {
 
 	switch {
 	case len(parts) == 2:
-		layout := "2006/1/2/15時4分"
-		onAirTime, err = time.ParseInLocation(layout, fmt.Sprintf("%d/%d/1/%s", year, month, parts[1]), timezone)
+		return OnAir{}, errSkippable
 	case len(parts) == 3:
 		layout := "2006/播放日期：1月2日起/15時4分"
 		onAirTime, err = time.ParseInLocation(layout, fmt.Sprintf("%d/%s/%s", year, parts[0], parts[2]), timezone)

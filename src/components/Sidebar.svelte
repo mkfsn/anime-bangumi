@@ -58,16 +58,6 @@
         width: 200px;
     }
 
-    ul {
-        list-style: none;
-        padding: 20px;
-        margin: 0;
-    }
-
-    li {
-        width: 200px;
-    }
-
     button {
         border: none;
         background: none;
