@@ -19,7 +19,7 @@ type EntityNames struct {
 
 type CharacterVoice struct {
 	Character  string `json:"character"`
-	VoiceActor string `json:"voice_actor"`
+	VoiceActor string `json:"voiceActor"`
 }
 
 type Staff struct {
@@ -34,13 +34,13 @@ type OnAir struct {
 
 type Image struct {
 	Url          string  `json:"url"`
-	ThumbnailUrl *string `json:"thumbnail_url,omitempty"`
+	ThumbnailUrl *string `json:"thumbnailUrl,omitempty"`
 }
 
 type Anime struct {
 	ID        string           `json:"id"`
 	Name      EntityNames      `json:"name"`
-	OnAir     OnAir            `json:"on_air"`
+	OnAir     OnAir            `json:"onAir"`
 	Copyright string           `json:"copyright"`
 	Story     string           `json:"story"`
 	Castings  []CharacterVoice `json:"castings"`

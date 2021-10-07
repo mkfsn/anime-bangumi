@@ -5,7 +5,7 @@
             "japanese": "鬼滅の刃 遊郭編",
             "chinese": "鬼滅之刃 遊郭篇"
         },
-        "on_air": {
+        "onAir": {
             "spec": "播放日期：12月5日起／每週日／23時15分",
             "time": "2021-12-05T23:15:00+09:00"
         },
@@ -14,27 +14,27 @@
         "castings": [
             {
                 "character": "竈門炭治郎",
-                "voice_actor": "花江夏樹"
+                "voiceActor": "花江夏樹"
             },
             {
                 "character": "竈門禰豆子",
-                "voice_actor": "鬼頭明里"
+                "voiceActor": "鬼頭明里"
             },
             {
                 "character": "我妻善逸",
-                "voice_actor": "下野紘"
+                "voiceActor": "下野紘"
             },
             {
                 "character": "嘴平伊之助",
-                "voice_actor": "松岡禎丞"
+                "voiceActor": "松岡禎丞"
             },
             {
                 "character": "宇髄天元",
-                "voice_actor": "小西克幸"
+                "voiceActor": "小西克幸"
             },
             {
                 "character": "堕姫（上弦の陸）",
-                "voice_actor": "沢城みゆき"
+                "voiceActor": "沢城みゆき"
             }
         ],
         "staffs": [
@@ -101,11 +101,11 @@
             },
             {
                 "url": "https://static.acgsecrets.hk/img/42/4282d87393ea6b71e4ff36f3eb98c14f/870f51c375a98eec6db8199149bc6a5b2ee53fe378bf315c5b0fe8bb41e03dbc.png",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/42/4282d87393ea6b71e4ff36f3eb98c14f/870f51c375a98eec6db8199149bc6a5b2ee53fe378bf315c5b0fe8bb41e03dbc-300x300.png"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/42/4282d87393ea6b71e4ff36f3eb98c14f/870f51c375a98eec6db8199149bc6a5b2ee53fe378bf315c5b0fe8bb41e03dbc-300x300.png"
             },
             {
                 "url": "https://static.acgsecrets.hk/img/37/37ef337e2b1034a3c8b3bec35bd7a776/534cb3b81a25f7740f7af47232be1a86d2ea5fb47d11912e5a28cb8b5a00e678.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/37/37ef337e2b1034a3c8b3bec35bd7a776/534cb3b81a25f7740f7af47232be1a86d2ea5fb47d11912e5a28cb8b5a00e678-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/37/37ef337e2b1034a3c8b3bec35bd7a776/534cb3b81a25f7740f7af47232be1a86d2ea5fb47d11912e5a28cb8b5a00e678-300x300.jpg"
             }
         ]
     },
@@ -115,7 +115,7 @@
             "japanese": "無職転生 ～異世界行ったら本気だす～ 第2クール",
             "chinese": "無職轉生～到了異世界就拿出真本事～ 第二季度"
         },
-        "on_air": {
+        "onAir": {
             "spec": "播放日期：10月4日起／每週一凌晨／0時0分",
             "time": "2021-10-04T00:00:00+09:00"
         },
@@ -124,71 +124,71 @@
         "castings": [
             {
                 "character": "ルーデウス・グレイラット",
-                "voice_actor": "内山夕実"
+                "voiceActor": "内山夕実"
             },
             {
                 "character": "前世の男",
-                "voice_actor": "杉田智和"
+                "voiceActor": "杉田智和"
             },
             {
                 "character": "ロキシー・ミグルディア",
-                "voice_actor": "小原好美"
+                "voiceActor": "小原好美"
             },
             {
                 "character": "エリス・ボレアス・グレイラット",
-                "voice_actor": "加隈亜衣"
+                "voiceActor": "加隈亜衣"
             },
             {
                 "character": "シルフィエット",
-                "voice_actor": "茅野愛衣"
+                "voiceActor": "茅野愛衣"
             },
             {
                 "character": "パウロ・グレイラット",
-                "voice_actor": "森川智之"
+                "voiceActor": "森川智之"
             },
             {
                 "character": "ゼニス・グレイラット",
-                "voice_actor": "金元寿子"
+                "voiceActor": "金元寿子"
             },
             {
                 "character": "リーリャ・グレイラット",
-                "voice_actor": "Lynn"
+                "voiceActor": "Lynn"
             },
             {
                 "character": "ルイジェルド・スペルディア",
-                "voice_actor": "浪川大輔"
+                "voiceActor": "浪川大輔"
             },
             {
                 "character": "ギレーヌ・デドルディア",
-                "voice_actor": "豊口めぐみ"
+                "voiceActor": "豊口めぐみ"
             },
             {
                 "character": "オルステッド",
-                "voice_actor": "津田健次郎"
+                "voiceActor": "津田健次郎"
             },
             {
                 "character": "キシリカ・キシリス",
-                "voice_actor": "井口裕香"
+                "voiceActor": "井口裕香"
             },
             {
                 "character": "ペルギウス・ドーラ",
-                "voice_actor": "小山力也"
+                "voiceActor": "小山力也"
             },
             {
                 "character": "アルマンフィ",
-                "voice_actor": "河西健吾"
+                "voiceActor": "河西健吾"
             },
             {
                 "character": "ヒトガミ",
-                "voice_actor": "くじら"
+                "voiceActor": "くじら"
             },
             {
                 "character": "エリナリーゼ・ドラゴンロード",
-                "voice_actor": "田中理恵"
+                "voiceActor": "田中理恵"
             },
             {
                 "character": "タルハンド",
-                "voice_actor": "大塚芳忠"
+                "voiceActor": "大塚芳忠"
             }
         ],
         "staffs": [
@@ -263,11 +263,11 @@
             },
             {
                 "url": "https://static.acgsecrets.hk/img/a7/a75195ac55763186c163bc1b51732963/a418e8da73ff36584b8ea9f32f10875bcc8a0adddac6f3ac1271be3f0e5452c7.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/a7/a75195ac55763186c163bc1b51732963/a418e8da73ff36584b8ea9f32f10875bcc8a0adddac6f3ac1271be3f0e5452c7-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/a7/a75195ac55763186c163bc1b51732963/a418e8da73ff36584b8ea9f32f10875bcc8a0adddac6f3ac1271be3f0e5452c7-300x300.jpg"
             },
             {
                 "url": "https://static.acgsecrets.hk/img/de/de07387089d416169088641c0dfc0ac6/23b881ed6ef9cea8c027c42ac64f426a0fa02fbf81b7e7e8b68087e7553b859a.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/de/de07387089d416169088641c0dfc0ac6/23b881ed6ef9cea8c027c42ac64f426a0fa02fbf81b7e7e8b68087e7553b859a-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/de/de07387089d416169088641c0dfc0ac6/23b881ed6ef9cea8c027c42ac64f426a0fa02fbf81b7e7e8b68087e7553b859a-300x300.jpg"
             }
         ]
     },
@@ -277,7 +277,7 @@
             "japanese": "86-エイティシックス- 第2クール",
             "chinese": "86 －不存在的戰區－ 第二季度"
         },
-        "on_air": {
+        "onAir": {
             "spec": "播放日期：10月3日起／每週日凌晨／0時0分",
             "time": "2021-10-03T00:00:00+09:00"
         },
@@ -286,39 +286,39 @@
         "castings": [
             {
                 "character": "シンエイ・ノウゼン",
-                "voice_actor": "千葉翔也"
+                "voiceActor": "千葉翔也"
             },
             {
                 "character": "ヴラディレーナ・ミリーゼ",
-                "voice_actor": "長谷川育美"
+                "voiceActor": "長谷川育美"
             },
             {
                 "character": "ライデン・シュガ",
-                "voice_actor": "山下誠一郎"
+                "voiceActor": "山下誠一郎"
             },
             {
                 "character": "セオト・リッカ",
-                "voice_actor": "藤原夏海"
+                "voiceActor": "藤原夏海"
             },
             {
                 "character": "アンジュ・エマ",
-                "voice_actor": "早見沙織"
+                "voiceActor": "早見沙織"
             },
             {
                 "character": "クレナ・ククミラ",
-                "voice_actor": "鈴代紗弓"
+                "voiceActor": "鈴代紗弓"
             },
             {
                 "character": "フレデリカ・ローゼンフォルト",
-                "voice_actor": "久野美咲"
+                "voiceActor": "久野美咲"
             },
             {
                 "character": "エルンスト・ツィマーマン",
-                "voice_actor": "内田夕夜"
+                "voiceActor": "内田夕夜"
             },
             {
                 "character": "シデン・イーダ",
-                "voice_actor": "泊 明日菜"
+                "voiceActor": "泊 明日菜"
             }
         ],
         "staffs": [
@@ -403,7 +403,7 @@
             "japanese": "takt op.Destiny",
             "chinese": "宿命迴響: 命運節拍"
         },
-        "on_air": {
+        "onAir": {
             "spec": "播放日期：10月6日起／每週三凌晨／0時0分",
             "time": "2021-10-06T00:00:00+09:00"
         },
@@ -412,39 +412,39 @@
         "castings": [
             {
                 "character": "朝雛タクト",
-                "voice_actor": "内山昂輝"
+                "voiceActor": "内山昂輝"
             },
             {
                 "character": "運命",
-                "voice_actor": "若山詩音"
+                "voiceActor": "若山詩音"
             },
             {
                 "character": "アンナ・シュナイダー",
-                "voice_actor": "本渡楓"
+                "voiceActor": "本渡楓"
             },
             {
                 "character": "巨人",
-                "voice_actor": "伊藤美来"
+                "voiceActor": "伊藤美来"
             },
             {
                 "character": "レニー",
-                "voice_actor": "日野聡"
+                "voiceActor": "日野聡"
             },
             {
                 "character": "天国",
-                "voice_actor": "水瀬いのり"
+                "voiceActor": "水瀬いのり"
             },
             {
                 "character": "地獄",
-                "voice_actor": "上田麗奈"
+                "voiceActor": "上田麗奈"
             },
             {
                 "character": "シントラー",
-                "voice_actor": "浪川大輔"
+                "voiceActor": "浪川大輔"
             },
             {
                 "character": "ザーガン",
-                "voice_actor": "花輪英司"
+                "voiceActor": "花輪英司"
             }
         ],
         "staffs": [
@@ -483,11 +483,11 @@
             },
             {
                 "url": "https://static.acgsecrets.hk/img/cf/cfad3eb1cdd933d303391edda1c32bb3/5ffb110fe7d2a22172a409ff8e71f88a0ec17347020a3ec65feb6f872a23e299.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/cf/cfad3eb1cdd933d303391edda1c32bb3/5ffb110fe7d2a22172a409ff8e71f88a0ec17347020a3ec65feb6f872a23e299-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/cf/cfad3eb1cdd933d303391edda1c32bb3/5ffb110fe7d2a22172a409ff8e71f88a0ec17347020a3ec65feb6f872a23e299-300x300.jpg"
             },
             {
                 "url": "https://static.acgsecrets.hk/img/ff/ffb4bb21c173347f42ccf4dde8f44a7d/a4695c90becfc127591dd0203943587b23f4107c89db253ca6a8f30a6991e993.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/ff/ffb4bb21c173347f42ccf4dde8f44a7d/a4695c90becfc127591dd0203943587b23f4107c89db253ca6a8f30a6991e993-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/ff/ffb4bb21c173347f42ccf4dde8f44a7d/a4695c90becfc127591dd0203943587b23f4107c89db253ca6a8f30a6991e993-300x300.jpg"
             }
         ]
     },
@@ -497,7 +497,7 @@
             "japanese": "世界最高の暗殺者、異世界貴族に転生する",
             "chinese": "世界頂尖的暗殺者轉生為異世界貴族"
         },
-        "on_air": {
+        "onAir": {
             "spec": "播放日期：10月6日起／每週三／23時0分",
             "time": "2021-10-06T23:00:00+09:00"
         },
@@ -506,35 +506,35 @@
         "castings": [
             {
                 "character": "ルーグ",
-                "voice_actor": "赤羽根健治"
+                "voiceActor": "赤羽根健治"
             },
             {
                 "character": "ディア",
-                "voice_actor": "上田麗奈"
+                "voiceActor": "上田麗奈"
             },
             {
                 "character": "タルト",
-                "voice_actor": "高田憂希"
+                "voiceActor": "高田憂希"
             },
             {
                 "character": "マーハ",
-                "voice_actor": "下地紫野"
+                "voiceActor": "下地紫野"
             },
             {
                 "character": "キアン",
-                "voice_actor": "森川智之"
+                "voiceActor": "森川智之"
             },
             {
                 "character": "エスリ",
-                "voice_actor": "たかはし智秋"
+                "voiceActor": "たかはし智秋"
             },
             {
                 "character": "女神",
-                "voice_actor": "田村ゆかり"
+                "voiceActor": "田村ゆかり"
             },
             {
                 "character": "暗殺者",
-                "voice_actor": "森田順平"
+                "voiceActor": "森田順平"
             }
         ],
         "staffs": [
@@ -573,11 +573,11 @@
             },
             {
                 "url": "https://static.acgsecrets.hk/img/14/141eba01a7a2a2facd2080f1e516dd0a/3c8bef2f4714388d615f254ce2887d02189f0952a33e9c36a8eb22df22240b70.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/14/141eba01a7a2a2facd2080f1e516dd0a/3c8bef2f4714388d615f254ce2887d02189f0952a33e9c36a8eb22df22240b70-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/14/141eba01a7a2a2facd2080f1e516dd0a/3c8bef2f4714388d615f254ce2887d02189f0952a33e9c36a8eb22df22240b70-300x300.jpg"
             },
             {
                 "url": "https://static.acgsecrets.hk/img/36/36bba32dca9b591060be21a1af73f4aa/e72ad95415095bbc63d206a330b71ef9a25fc7b4d24de9e2f310e04d1df24a13.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/36/36bba32dca9b591060be21a1af73f4aa/e72ad95415095bbc63d206a330b71ef9a25fc7b4d24de9e2f310e04d1df24a13-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/36/36bba32dca9b591060be21a1af73f4aa/e72ad95415095bbc63d206a330b71ef9a25fc7b4d24de9e2f310e04d1df24a13-300x300.jpg"
             }
         ]
     },
@@ -587,7 +587,7 @@
             "japanese": "王様ランキング",
             "chinese": "國王排名"
         },
-        "on_air": {
+        "onAir": {
             "spec": "播放日期：10月15日起／每週五凌晨／0時55分",
             "time": "2021-10-15T00:55:00+09:00"
         },
@@ -596,39 +596,39 @@
         "castings": [
             {
                 "character": "ボッジ",
-                "voice_actor": "日向未南"
+                "voiceActor": "日向未南"
             },
             {
                 "character": "カゲ",
-                "voice_actor": "村瀬歩"
+                "voiceActor": "村瀬歩"
             },
             {
                 "character": "ダイダ",
-                "voice_actor": "梶 裕貴"
+                "voiceActor": "梶 裕貴"
             },
             {
                 "character": "ヒリング",
-                "voice_actor": "佐藤利奈"
+                "voiceActor": "佐藤利奈"
             },
             {
                 "character": "ドーマス",
-                "voice_actor": "江口拓也"
+                "voiceActor": "江口拓也"
             },
             {
                 "character": "ベビン",
-                "voice_actor": "上田燿司"
+                "voiceActor": "上田燿司"
             },
             {
                 "character": "アピス",
-                "voice_actor": "安元洋貴"
+                "voiceActor": "安元洋貴"
             },
             {
                 "character": "ドルーシ",
-                "voice_actor": "田所陽向"
+                "voiceActor": "田所陽向"
             },
             {
                 "character": "ホクロ",
-                "voice_actor": "山下大輝"
+                "voiceActor": "山下大輝"
             }
         ],
         "staffs": [
@@ -715,15 +715,15 @@
             },
             {
                 "url": "https://static.acgsecrets.hk/img/f0/f040b7f26399c9120375514549c7cf1b/375d1d31b919b69e28f72893f7554c3cd1d3fcb226b68ed9938b73363aaed4b5.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/f0/f040b7f26399c9120375514549c7cf1b/375d1d31b919b69e28f72893f7554c3cd1d3fcb226b68ed9938b73363aaed4b5-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/f0/f040b7f26399c9120375514549c7cf1b/375d1d31b919b69e28f72893f7554c3cd1d3fcb226b68ed9938b73363aaed4b5-300x300.jpg"
             },
             {
                 "url": "https://static.acgsecrets.hk/img/86/86b5d5620785b6a5e13732184809609f/19d00a99f484221136c7f7c767d381f3fcacbd49390d5e3f29622606006985c6.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/86/86b5d5620785b6a5e13732184809609f/19d00a99f484221136c7f7c767d381f3fcacbd49390d5e3f29622606006985c6-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/86/86b5d5620785b6a5e13732184809609f/19d00a99f484221136c7f7c767d381f3fcacbd49390d5e3f29622606006985c6-300x300.jpg"
             },
             {
                 "url": "https://static.acgsecrets.hk/img/66/66798cf0e440c2b838f28927c3198b0f/2d5c934202cdce2a7442ea8195c3fe1d87b0a0609874c8a203568c1bf2c058a4.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/66/66798cf0e440c2b838f28927c3198b0f/2d5c934202cdce2a7442ea8195c3fe1d87b0a0609874c8a203568c1bf2c058a4-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/66/66798cf0e440c2b838f28927c3198b0f/2d5c934202cdce2a7442ea8195c3fe1d87b0a0609874c8a203568c1bf2c058a4-300x300.jpg"
             }
         ]
     },
@@ -733,7 +733,7 @@
             "japanese": "ブルーピリオド",
             "chinese": "藍色時期"
         },
-        "on_air": {
+        "onAir": {
             "spec": "播放日期：10月2日起／每週六凌晨／1時25分",
             "time": "2021-10-02T01:25:00+09:00"
         },
@@ -742,75 +742,75 @@
         "castings": [
             {
                 "character": "矢口八虎",
-                "voice_actor": "峯田大夢"
+                "voiceActor": "峯田大夢"
             },
             {
                 "character": "鮎川龍二",
-                "voice_actor": "花守ゆみり"
+                "voiceActor": "花守ゆみり"
             },
             {
                 "character": "高橋世田介",
-                "voice_actor": "山下大輝"
+                "voiceActor": "山下大輝"
             },
             {
                 "character": "橋田 悠",
-                "voice_actor": "河西健吾"
+                "voiceActor": "河西健吾"
             },
             {
                 "character": "桑名マキ",
-                "voice_actor": "宮本侑芽"
+                "voiceActor": "宮本侑芽"
             },
             {
                 "character": "森まる",
-                "voice_actor": "青耶木まゆ"
+                "voiceActor": "青耶木まゆ"
             },
             {
                 "character": "佐伯昌子",
-                "voice_actor": "平野文"
+                "voiceActor": "平野文"
             },
             {
                 "character": "純田",
-                "voice_actor": "福西勝也"
+                "voiceActor": "福西勝也"
             },
             {
                 "character": "恋ケ窪",
-                "voice_actor": "神尾晋一郎"
+                "voiceActor": "神尾晋一郎"
             },
             {
                 "character": "歌島",
-                "voice_actor": "橘龍丸"
+                "voiceActor": "橘龍丸"
             },
             {
                 "character": "海野",
-                "voice_actor": "平塚未玖"
+                "voiceActor": "平塚未玖"
             },
             {
                 "character": "白井",
-                "voice_actor": "長谷川育美"
+                "voiceActor": "長谷川育美"
             },
             {
                 "character": "城田",
-                "voice_actor": "根本優奈"
+                "voiceActor": "根本優奈"
             },
             {
                 "character": "山本",
-                "voice_actor": "古賀葵"
+                "voiceActor": "古賀葵"
             },
             {
                 "character": "大葉真由",
-                "voice_actor": "和 優希"
+                "voiceActor": "和 優希"
             },
             {
                 "character": "岡田さえ",
-                "voice_actor": "陶山恵実里"
+                "voiceActor": "陶山恵実里"
             },
             {
                 "character": "石井啄郎",
-                "voice_actor": "村田太志"
+                "voiceActor": "村田太志"
             },
             {
                 "character": "桜庭華子",
-                "voice_actor": "大西沙織"
+                "voiceActor": "大西沙織"
             }
         ],
         "staffs": [
@@ -897,11 +897,11 @@
             },
             {
                 "url": "https://static.acgsecrets.hk/img/c1/c12f15c2cbd44fe351061c6cdeea2654/bc49c595b0439ba8c19f1bbd0be9ae1c2114be8f8d111a49934ee0de479ab538.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/c1/c12f15c2cbd44fe351061c6cdeea2654/bc49c595b0439ba8c19f1bbd0be9ae1c2114be8f8d111a49934ee0de479ab538-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/c1/c12f15c2cbd44fe351061c6cdeea2654/bc49c595b0439ba8c19f1bbd0be9ae1c2114be8f8d111a49934ee0de479ab538-300x300.jpg"
             },
             {
                 "url": "https://static.acgsecrets.hk/img/8c/8c04e4c0c2cc73454166dd3ff11d70de/1f24c22ecb095e8c2e0c34d9852d02d58243b78320e3d56d44cb6a7d31a5f8bf.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/8c/8c04e4c0c2cc73454166dd3ff11d70de/1f24c22ecb095e8c2e0c34d9852d02d58243b78320e3d56d44cb6a7d31a5f8bf-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/8c/8c04e4c0c2cc73454166dd3ff11d70de/1f24c22ecb095e8c2e0c34d9852d02d58243b78320e3d56d44cb6a7d31a5f8bf-300x300.jpg"
             }
         ]
     },
@@ -911,7 +911,7 @@
             "japanese": "古見さんは、コミュ症です。",
             "chinese": "古見同學有社交障礙"
         },
-        "on_air": {
+        "onAir": {
             "spec": "播放日期：10月7日起／每週四凌晨／0時0分",
             "time": "2021-10-07T00:00:00+09:00"
         },
@@ -920,51 +920,51 @@
         "castings": [
             {
                 "character": "古見硝子",
-                "voice_actor": "古賀葵"
+                "voiceActor": "古賀葵"
             },
             {
                 "character": "只野仁人",
-                "voice_actor": "梶原岳人"
+                "voiceActor": "梶原岳人"
             },
             {
                 "character": "長名なじみ",
-                "voice_actor": "村川梨衣"
+                "voiceActor": "村川梨衣"
             },
             {
                 "character": "山井 恋",
-                "voice_actor": "日高里菜"
+                "voiceActor": "日高里菜"
             },
             {
                 "character": "中々思春",
-                "voice_actor": "大久保瑠美"
+                "voiceActor": "大久保瑠美"
             },
             {
                 "character": "上理卑美子",
-                "voice_actor": "藤井ゆきよ"
+                "voiceActor": "藤井ゆきよ"
             },
             {
                 "character": "矢田野まける",
-                "voice_actor": "前島亜美"
+                "voiceActor": "前島亜美"
             },
             {
                 "character": "地洗井茂夫",
-                "voice_actor": "赤羽根健治"
+                "voiceActor": "赤羽根健治"
             },
             {
                 "character": "園田大勢",
-                "voice_actor": "佐藤悠雅"
+                "voiceActor": "佐藤悠雅"
             },
             {
                 "character": "忍野裳乃",
-                "voice_actor": "小野賢章"
+                "voiceActor": "小野賢章"
             },
             {
                 "character": "鬼ヶ島朱子",
-                "voice_actor": "ブリドカットセーラ恵美"
+                "voiceActor": "ブリドカットセーラ恵美"
             },
             {
                 "character": "ナレーション",
-                "voice_actor": "日髙のり子"
+                "voiceActor": "日髙のり子"
             }
         ],
         "staffs": [
@@ -1027,11 +1027,11 @@
             },
             {
                 "url": "https://static.acgsecrets.hk/img/89/89005ba8270bee7b46d609d92cb65eca/b844f9820163359f0767ad783a1efafdcee9eaee9ab6c0f5dcd6973dd54ca368.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/89/89005ba8270bee7b46d609d92cb65eca/b844f9820163359f0767ad783a1efafdcee9eaee9ab6c0f5dcd6973dd54ca368-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/89/89005ba8270bee7b46d609d92cb65eca/b844f9820163359f0767ad783a1efafdcee9eaee9ab6c0f5dcd6973dd54ca368-300x300.jpg"
             },
             {
                 "url": "https://static.acgsecrets.hk/img/9d/9d92f98caff748ea926752434cceef4c/70d30a2d2c4c59c607af29f09b2333c3c14acb3d44599fa34706ad17a31c4b59.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/9d/9d92f98caff748ea926752434cceef4c/70d30a2d2c4c59c607af29f09b2333c3c14acb3d44599fa34706ad17a31c4b59-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/9d/9d92f98caff748ea926752434cceef4c/70d30a2d2c4c59c607af29f09b2333c3c14acb3d44599fa34706ad17a31c4b59-300x300.jpg"
             }
         ]
     },
@@ -1041,7 +1041,7 @@
             "japanese": "真の仲間じゃないと勇者のパーティーを追い出されたので、辺境でスローライフすることにしました",
             "chinese": "因為不是真正的夥伴而被逐出勇者隊伍，流落到邊境展開慢活人生"
         },
-        "on_air": {
+        "onAir": {
             "spec": "播放日期：10月6日起／每週三／22時30分",
             "time": "2021-10-06T22:30:00+09:00"
         },
@@ -1050,71 +1050,71 @@
         "castings": [
             {
                 "character": "レッド（ギデオン）",
-                "voice_actor": "鈴木崚汰"
+                "voiceActor": "鈴木崚汰"
             },
             {
                 "character": "リット",
-                "voice_actor": "高尾奏音"
+                "voiceActor": "高尾奏音"
             },
             {
                 "character": "ルーティ",
-                "voice_actor": "大空直美"
+                "voiceActor": "大空直美"
             },
             {
                 "character": "ヤランドララ",
-                "voice_actor": "雨宮天"
+                "voiceActor": "雨宮天"
             },
             {
                 "character": "アレス",
-                "voice_actor": "八代拓"
+                "voiceActor": "八代拓"
             },
             {
                 "character": "テオドラ",
-                "voice_actor": "内田彩"
+                "voiceActor": "内田彩"
             },
             {
                 "character": "ダナン",
-                "voice_actor": "三宅健太"
+                "voiceActor": "三宅健太"
             },
             {
                 "character": "ティセ",
-                "voice_actor": "釘宮理恵"
+                "voiceActor": "釘宮理恵"
             },
             {
                 "character": "アルベール",
-                "voice_actor": "天﨑滉平"
+                "voiceActor": "天﨑滉平"
             },
             {
                 "character": "ゴンズ",
-                "voice_actor": "山中真尋"
+                "voiceActor": "山中真尋"
             },
             {
                 "character": "タンタ",
-                "voice_actor": "芹澤優"
+                "voiceActor": "芹澤優"
             },
             {
                 "character": "ナオ",
-                "voice_actor": "徳井青空"
+                "voiceActor": "徳井青空"
             },
             {
                 "character": "ミド",
-                "voice_actor": "三品建"
+                "voiceActor": "三品建"
             },
             {
                 "character": "メグリア",
-                "voice_actor": "東山奈央"
+                "voiceActor": "東山奈央"
             },
             {
                 "character": "ディル",
-                "voice_actor": "利根健太朗"
+                "voiceActor": "利根健太朗"
             },
             {
                 "character": "ニューマン",
-                "voice_actor": "魚建"
+                "voiceActor": "魚建"
             },
             {
                 "character": "ストームサンダー",
-                "voice_actor": "上田燿司"
+                "voiceActor": "上田燿司"
             }
         ],
         "staffs": [
@@ -1149,11 +1149,11 @@
             },
             {
                 "url": "https://static.acgsecrets.hk/img/4f/4f93e48f2c0f7a250f7aaeacc2bab768/594645cdc5e48ea404fcd344dd7eb0ae3f273fb10758eb187b70e1f6b249e343.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/4f/4f93e48f2c0f7a250f7aaeacc2bab768/594645cdc5e48ea404fcd344dd7eb0ae3f273fb10758eb187b70e1f6b249e343-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/4f/4f93e48f2c0f7a250f7aaeacc2bab768/594645cdc5e48ea404fcd344dd7eb0ae3f273fb10758eb187b70e1f6b249e343-300x300.jpg"
             },
             {
                 "url": "https://static.acgsecrets.hk/img/e4/e4b853656f1e9284fc39e3d9672fea4b/18f4f803e20d3142d1b06ed472a359b0c2d2c7c1784871d85fa613ce3744e191.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/e4/e4b853656f1e9284fc39e3d9672fea4b/18f4f803e20d3142d1b06ed472a359b0c2d2c7c1784871d85fa613ce3744e191-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/e4/e4b853656f1e9284fc39e3d9672fea4b/18f4f803e20d3142d1b06ed472a359b0c2d2c7c1784871d85fa613ce3744e191-300x300.jpg"
             }
         ]
     },
@@ -1163,7 +1163,7 @@
             "japanese": "逆転世界ノ電池少女",
             "chinese": "逆轉世界的電池少女"
         },
-        "on_air": {
+        "onAir": {
             "spec": "播放日期：10月11日起／每週一／23時0分",
             "time": "2021-10-11T23:00:00+09:00"
         },
@@ -1172,63 +1172,63 @@
         "castings": [
             {
                 "character": "久導細道",
-                "voice_actor": "山下誠一郎"
+                "voiceActor": "山下誠一郎"
             },
             {
                 "character": "赤城りん",
-                "voice_actor": "ファイルーズあい"
+                "voiceActor": "ファイルーズあい"
             },
             {
                 "character": "蒼葉夕紀",
-                "voice_actor": "鈴木愛奈"
+                "voiceActor": "鈴木愛奈"
             },
             {
                 "character": "黒木ミサ",
-                "voice_actor": "井澤詩織"
+                "voiceActor": "井澤詩織"
             },
             {
                 "character": "東雲アカツキ",
-                "voice_actor": "寺島拓篤"
+                "voiceActor": "寺島拓篤"
             },
             {
                 "character": "真神ハヤテ",
-                "voice_actor": "日高里菜"
+                "voiceActor": "日高里菜"
             },
             {
                 "character": "佐斯神ムサシ",
-                "voice_actor": "藤井ゆきよ"
+                "voiceActor": "藤井ゆきよ"
             },
             {
                 "character": "神水流ヤクモ",
-                "voice_actor": "下地紫野"
+                "voiceActor": "下地紫野"
             },
             {
                 "character": "バルザック山田",
-                "voice_actor": "杉田智和"
+                "voiceActor": "杉田智和"
             },
             {
                 "character": "神楽坂ミミ",
-                "voice_actor": "豊崎愛生"
+                "voiceActor": "豊崎愛生"
             },
             {
                 "character": "宗方安寿",
-                "voice_actor": "福地教光"
+                "voiceActor": "福地教光"
             },
             {
                 "character": "鵜飼",
-                "voice_actor": "松田健一郎"
+                "voiceActor": "松田健一郎"
             },
             {
                 "character": "メガネ",
-                "voice_actor": "水島大宙"
+                "voiceActor": "水島大宙"
             },
             {
                 "character": "キャップ",
-                "voice_actor": "葉山翔太"
+                "voiceActor": "葉山翔太"
             },
             {
                 "character": "ポチャ",
-                "voice_actor": "金子隼人"
+                "voiceActor": "金子隼人"
             }
         ],
         "staffs": [
@@ -1267,11 +1267,11 @@
             },
             {
                 "url": "https://static.acgsecrets.hk/img/db/db1b7c2e15de875c797464c83bceb144/34ff362cd34f40e570f84813d07dea91ea6a666d24792bacfd78b8a2fd6fa782.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/db/db1b7c2e15de875c797464c83bceb144/34ff362cd34f40e570f84813d07dea91ea6a666d24792bacfd78b8a2fd6fa782-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/db/db1b7c2e15de875c797464c83bceb144/34ff362cd34f40e570f84813d07dea91ea6a666d24792bacfd78b8a2fd6fa782-300x300.jpg"
             },
             {
                 "url": "https://static.acgsecrets.hk/img/82/82d35a7c7b22c9c3068192cb6d820217/f6e59e5f4b2791e25496cc6c9c0d9d8b9e57a3a215e936fce57621b3b1162027.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/82/82d35a7c7b22c9c3068192cb6d820217/f6e59e5f4b2791e25496cc6c9c0d9d8b9e57a3a215e936fce57621b3b1162027-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/82/82d35a7c7b22c9c3068192cb6d820217/f6e59e5f4b2791e25496cc6c9c0d9d8b9e57a3a215e936fce57621b3b1162027-300x300.jpg"
             }
         ]
     },
@@ -1281,7 +1281,7 @@
             "japanese": "サクガン",
             "chinese": "SAKUGAN"
         },
-        "on_air": {
+        "onAir": {
             "spec": "播放日期：10月7日起／每週四／23時30分",
             "time": "2021-10-07T23:30:00+09:00"
         },
@@ -1290,43 +1290,43 @@
         "castings": [
             {
                 "character": "メメンプー",
-                "voice_actor": "天希かのん"
+                "voiceActor": "天希かのん"
             },
             {
                 "character": "ガガンバー",
-                "voice_actor": "東地宏樹"
+                "voiceActor": "東地宏樹"
             },
             {
                 "character": "ザクレットゥ",
-                "voice_actor": "花澤香菜"
+                "voiceActor": "花澤香菜"
             },
             {
                 "character": "ユーリ",
-                "voice_actor": "豊永利行"
+                "voiceActor": "豊永利行"
             },
             {
                 "character": "メローロ",
-                "voice_actor": "細谷佳正"
+                "voiceActor": "細谷佳正"
             },
             {
                 "character": "DJ K",
-                "voice_actor": "神谷浩史"
+                "voiceActor": "神谷浩史"
             },
             {
                 "character": "ムゥロ",
-                "voice_actor": "和多田美咲"
+                "voiceActor": "和多田美咲"
             },
             {
                 "character": "ボス",
-                "voice_actor": "小山剛志"
+                "voiceActor": "小山剛志"
             },
             {
                 "character": "リンダ",
-                "voice_actor": "津田美波"
+                "voiceActor": "津田美波"
             },
             {
                 "character": "ルーファス",
-                "voice_actor": "緑川光"
+                "voiceActor": "緑川光"
             }
         ],
         "staffs": [
@@ -1433,11 +1433,11 @@
             },
             {
                 "url": "https://static.acgsecrets.hk/img/68/6870caf181e26ead48256798d3dedc26/265b13300ed7aa41688ee00e8342206141957c97b092b45d1b073b6e657dd3bb.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/68/6870caf181e26ead48256798d3dedc26/265b13300ed7aa41688ee00e8342206141957c97b092b45d1b073b6e657dd3bb-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/68/6870caf181e26ead48256798d3dedc26/265b13300ed7aa41688ee00e8342206141957c97b092b45d1b073b6e657dd3bb-300x300.jpg"
             },
             {
                 "url": "https://static.acgsecrets.hk/img/34/34fe2e996acc5a7888db2a19de5ba238/6f163f93f387a90d44b5b95df45dd175243dd908f68ae404c9ffebbb286f05c5.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/34/34fe2e996acc5a7888db2a19de5ba238/6f163f93f387a90d44b5b95df45dd175243dd908f68ae404c9ffebbb286f05c5-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/34/34fe2e996acc5a7888db2a19de5ba238/6f163f93f387a90d44b5b95df45dd175243dd908f68ae404c9ffebbb286f05c5-300x300.jpg"
             }
         ]
     },
@@ -1447,7 +1447,7 @@
             "japanese": "見える子ちゃん",
             "chinese": "陰陽眼見子"
         },
-        "on_air": {
+        "onAir": {
             "spec": "播放日期：10月3日起／每週日／22時0分",
             "time": "2021-10-03T22:00:00+09:00"
         },
@@ -1456,15 +1456,15 @@
         "castings": [
             {
                 "character": "四谷みこ",
-                "voice_actor": "雨宮 天"
+                "voiceActor": "雨宮 天"
             },
             {
                 "character": "百合川ハナ",
-                "voice_actor": "本渡 楓"
+                "voiceActor": "本渡 楓"
             },
             {
                 "character": "二暮堂ユリア",
-                "voice_actor": "佐倉綾音"
+                "voiceActor": "佐倉綾音"
             }
         ],
         "staffs": [
@@ -1507,27 +1507,27 @@
             },
             {
                 "url": "https://static.acgsecrets.hk/img/bb/bb529e6cb246ce3db60ea0b4e49de02d/87379bf3afb6592c5cb5aaa818662f893171576cbd9835debb4ddcb45664c418.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/bb/bb529e6cb246ce3db60ea0b4e49de02d/87379bf3afb6592c5cb5aaa818662f893171576cbd9835debb4ddcb45664c418-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/bb/bb529e6cb246ce3db60ea0b4e49de02d/87379bf3afb6592c5cb5aaa818662f893171576cbd9835debb4ddcb45664c418-300x300.jpg"
             },
             {
                 "url": "https://static.acgsecrets.hk/img/9f/9f4d438d8fcbb4994c7abd33801de77a/1401898b320f5f8de4fe6182c51427a6c1f53c6e81d43ee72d8e99dc6c346a23.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/9f/9f4d438d8fcbb4994c7abd33801de77a/1401898b320f5f8de4fe6182c51427a6c1f53c6e81d43ee72d8e99dc6c346a23-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/9f/9f4d438d8fcbb4994c7abd33801de77a/1401898b320f5f8de4fe6182c51427a6c1f53c6e81d43ee72d8e99dc6c346a23-300x300.jpg"
             },
             {
                 "url": "https://static.acgsecrets.hk/img/26/261c1f5516567556079b5e4c75196965/95b673e03959a3bcc3afe601c5a5698dc16e006a59c4f2c8720e8e6ad8d229bf.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/26/261c1f5516567556079b5e4c75196965/95b673e03959a3bcc3afe601c5a5698dc16e006a59c4f2c8720e8e6ad8d229bf-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/26/261c1f5516567556079b5e4c75196965/95b673e03959a3bcc3afe601c5a5698dc16e006a59c4f2c8720e8e6ad8d229bf-300x300.jpg"
             },
             {
                 "url": "https://static.acgsecrets.hk/img/92/92b815053fa7e9f8d9ca00e54fa39070/203434b3f7e983b342a1e63e35230253e33b51ad6e4e295b802065e34214cecb.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/92/92b815053fa7e9f8d9ca00e54fa39070/203434b3f7e983b342a1e63e35230253e33b51ad6e4e295b802065e34214cecb-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/92/92b815053fa7e9f8d9ca00e54fa39070/203434b3f7e983b342a1e63e35230253e33b51ad6e4e295b802065e34214cecb-300x300.jpg"
             },
             {
                 "url": "https://static.acgsecrets.hk/img/54/5494041c0d6b2a3b5eb79e40c19003a2/afe7ca37f05fcb503fcf9a7274a3a4d2fd057aeffaf53c5166a4fa36f3b24b37.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/54/5494041c0d6b2a3b5eb79e40c19003a2/afe7ca37f05fcb503fcf9a7274a3a4d2fd057aeffaf53c5166a4fa36f3b24b37-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/54/5494041c0d6b2a3b5eb79e40c19003a2/afe7ca37f05fcb503fcf9a7274a3a4d2fd057aeffaf53c5166a4fa36f3b24b37-300x300.jpg"
             },
             {
                 "url": "https://static.acgsecrets.hk/img/c2/c292fb62bb40b0cf8fa1fc6d70df1e76/c4a9209e8e943a5e811381c8f70611870a6cc69277307f596beb19f4c60bb75f.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/c2/c292fb62bb40b0cf8fa1fc6d70df1e76/c4a9209e8e943a5e811381c8f70611870a6cc69277307f596beb19f4c60bb75f-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/c2/c292fb62bb40b0cf8fa1fc6d70df1e76/c4a9209e8e943a5e811381c8f70611870a6cc69277307f596beb19f4c60bb75f-300x300.jpg"
             }
         ]
     },
@@ -1537,7 +1537,7 @@
             "japanese": "マブラヴ オルタネイティヴ",
             "chinese": "Muv-Luv Alternative"
         },
-        "on_air": {
+        "onAir": {
             "spec": "播放日期：10月7日起／每週四凌晨／0時55分",
             "time": "2021-10-07T00:55:00+09:00"
         },
@@ -1546,15 +1546,15 @@
         "castings": [
             {
                 "character": "白銀 武",
-                "voice_actor": "神木孝⼀"
+                "voiceActor": "神木孝⼀"
             },
             {
                 "character": "鑑 純夏",
-                "voice_actor": "楠⽊ともり"
+                "voiceActor": "楠⽊ともり"
             },
             {
                 "character": "御剣冥夜",
-                "voice_actor": "奈波果林"
+                "voiceActor": "奈波果林"
             }
         ],
         "staffs": [
@@ -1589,15 +1589,15 @@
             },
             {
                 "url": "https://static.acgsecrets.hk/img/52/52d4c2d012053938eff2bccc9ec4c43f/09369300d6539eea020d9494d5e7ba8f0f5b9cec7017c9354bca624bf84fbcb9.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/52/52d4c2d012053938eff2bccc9ec4c43f/09369300d6539eea020d9494d5e7ba8f0f5b9cec7017c9354bca624bf84fbcb9-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/52/52d4c2d012053938eff2bccc9ec4c43f/09369300d6539eea020d9494d5e7ba8f0f5b9cec7017c9354bca624bf84fbcb9-300x300.jpg"
             },
             {
                 "url": "https://static.acgsecrets.hk/img/e4/e4084f29df608848913d4f4169eefdd9/e8c014908456f769e76283e57e5e7bb2544363afc1796e2a7e67e65641d5d85e.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/e4/e4084f29df608848913d4f4169eefdd9/e8c014908456f769e76283e57e5e7bb2544363afc1796e2a7e67e65641d5d85e-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/e4/e4084f29df608848913d4f4169eefdd9/e8c014908456f769e76283e57e5e7bb2544363afc1796e2a7e67e65641d5d85e-300x300.jpg"
             },
             {
                 "url": "https://static.acgsecrets.hk/img/6c/6c1671592f5acea26c1a95707c6fa95c/245f058b650aebedddaf35b57e3ef19a164178b66723a26cfdcdd850186f9af4.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/6c/6c1671592f5acea26c1a95707c6fa95c/245f058b650aebedddaf35b57e3ef19a164178b66723a26cfdcdd850186f9af4-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/6c/6c1671592f5acea26c1a95707c6fa95c/245f058b650aebedddaf35b57e3ef19a164178b66723a26cfdcdd850186f9af4-300x300.jpg"
             }
         ]
     },
@@ -1607,7 +1607,7 @@
             "japanese": "異世界食堂2",
             "chinese": "異世界食堂2"
         },
-        "on_air": {
+        "onAir": {
             "spec": "播放日期：10月2日起／每週六凌晨／1時23分",
             "time": "2021-10-02T01:23:00+09:00"
         },
@@ -1616,23 +1616,23 @@
         "castings": [
             {
                 "character": "店主",
-                "voice_actor": "諏訪部順一"
+                "voiceActor": "諏訪部順一"
             },
             {
                 "character": "アレッタ",
-                "voice_actor": "上坂すみれ"
+                "voiceActor": "上坂すみれ"
             },
             {
                 "character": "クロ",
-                "voice_actor": "大西沙織"
+                "voiceActor": "大西沙織"
             },
             {
                 "character": "サラ",
-                "voice_actor": "安野希世乃"
+                "voiceActor": "安野希世乃"
             },
             {
                 "character": "ヒルダ",
-                "voice_actor": "東山奈央"
+                "voiceActor": "東山奈央"
             }
         ],
         "staffs": [
@@ -1699,15 +1699,15 @@
             },
             {
                 "url": "https://static.acgsecrets.hk/img/a1/a1846fac5f93de22d3ac9521b70eb37b/cf941836db105f886215f34d940589e97dbc8b855a09911af2ba1912eff053cb.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/a1/a1846fac5f93de22d3ac9521b70eb37b/cf941836db105f886215f34d940589e97dbc8b855a09911af2ba1912eff053cb-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/a1/a1846fac5f93de22d3ac9521b70eb37b/cf941836db105f886215f34d940589e97dbc8b855a09911af2ba1912eff053cb-300x300.jpg"
             },
             {
                 "url": "https://static.acgsecrets.hk/img/03/03a4b9ca9ca3b5405be9e11158f87b7f/88dde750727ef665f36fc946681eec673d399890deade8a4ec98f80e726f79fe.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/03/03a4b9ca9ca3b5405be9e11158f87b7f/88dde750727ef665f36fc946681eec673d399890deade8a4ec98f80e726f79fe-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/03/03a4b9ca9ca3b5405be9e11158f87b7f/88dde750727ef665f36fc946681eec673d399890deade8a4ec98f80e726f79fe-300x300.jpg"
             },
             {
                 "url": "https://static.acgsecrets.hk/img/ce/ce315df25015fcae0af5ac05bfa14457/8c48603161e04a722869c66ed8d96102bc28b5b4183f3e53c7f2eca9dc5dacd1.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/ce/ce315df25015fcae0af5ac05bfa14457/8c48603161e04a722869c66ed8d96102bc28b5b4183f3e53c7f2eca9dc5dacd1-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/ce/ce315df25015fcae0af5ac05bfa14457/8c48603161e04a722869c66ed8d96102bc28b5b4183f3e53c7f2eca9dc5dacd1-300x300.jpg"
             }
         ]
     },
@@ -1717,7 +1717,7 @@
             "japanese": "最果てのパラディン",
             "chinese": "世界盡頭的聖騎士"
         },
-        "on_air": {
+        "onAir": {
             "spec": "播放日期：10月9日起／每週六／22時0分",
             "time": "2021-10-09T22:00:00+09:00"
         },
@@ -1726,31 +1726,31 @@
         "castings": [
             {
                 "character": "ウィル",
-                "voice_actor": "河瀬茉希"
+                "voiceActor": "河瀬茉希"
             },
             {
                 "character": "ブラッド",
-                "voice_actor": "小西克幸"
+                "voiceActor": "小西克幸"
             },
             {
                 "character": "マリー",
-                "voice_actor": "堀江由衣"
+                "voiceActor": "堀江由衣"
             },
             {
                 "character": "ガス",
-                "voice_actor": "飛田展男"
+                "voiceActor": "飛田展男"
             },
             {
                 "character": "メネル",
-                "voice_actor": "村瀬歩"
+                "voiceActor": "村瀬歩"
             },
             {
                 "character": "グレイスフィール",
-                "voice_actor": "悠木碧"
+                "voiceActor": "悠木碧"
             },
             {
                 "character": "スタグネイト",
-                "voice_actor": "高橋広樹"
+                "voiceActor": "高橋広樹"
             }
         ],
         "staffs": [
@@ -1791,7 +1791,7 @@
             "japanese": "終末のハーレム",
             "chinese": "終末的後宮"
         },
-        "on_air": {
+        "onAir": {
             "spec": "播放日期：10月8日起／每週五／21時30分",
             "time": "2021-10-08T21:30:00+09:00"
         },
@@ -1800,71 +1800,71 @@
         "castings": [
             {
                 "character": "水原怜人",
-                "voice_actor": "市川太一"
+                "voiceActor": "市川太一"
             },
             {
                 "character": "周防美来",
-                "voice_actor": "白石晴香"
+                "voiceActor": "白石晴香"
             },
             {
                 "character": "龍造寺朱音",
-                "voice_actor": "大地葉"
+                "voiceActor": "大地葉"
             },
             {
                 "character": "山田翠",
-                "voice_actor": "山根綺"
+                "voiceActor": "山根綺"
             },
             {
                 "character": "片桐麗亜",
-                "voice_actor": "渡部恵子"
+                "voiceActor": "渡部恵子"
             },
             {
                 "character": "黒田マリア",
-                "voice_actor": "小坂井祐莉絵"
+                "voiceActor": "小坂井祐莉絵"
             },
             {
                 "character": "水原まひる",
-                "voice_actor": "首藤志奈"
+                "voiceActor": "首藤志奈"
             },
             {
                 "character": "火野恭司",
-                "voice_actor": "江口拓也"
+                "voiceActor": "江口拓也"
             },
             {
                 "character": "石動寧々子",
-                "voice_actor": "石上静香"
+                "voiceActor": "石上静香"
             },
             {
                 "character": "北山玲奈",
-                "voice_actor": "天野聡美"
+                "voiceActor": "天野聡美"
             },
             {
                 "character": "土井翔太",
-                "voice_actor": "浦和希"
+                "voiceActor": "浦和希"
             },
             {
                 "character": "神谷花蓮",
-                "voice_actor": "竹達彩奈"
+                "voiceActor": "竹達彩奈"
             },
             {
                 "character": "羽生柚希",
-                "voice_actor": "早瀬莉花"
+                "voiceActor": "早瀬莉花"
             },
             {
                 "character": "柊春歌",
-                "voice_actor": "道井悠"
+                "voiceActor": "道井悠"
             },
             {
                 "character": "一条奈都",
-                "voice_actor": "愛原ありさ"
+                "voiceActor": "愛原ありさ"
             },
             {
                 "character": "東堂晶",
-                "voice_actor": "飯田里穂"
+                "voiceActor": "飯田里穂"
             },
             {
                 "character": "黒田・レイン・ちふゆ",
-                "voice_actor": "高森奈津美"
+                "voiceActor": "高森奈津美"
             }
         ],
         "staffs": [
@@ -1899,11 +1899,11 @@
             },
             {
                 "url": "https://static.acgsecrets.hk/img/e1/e116deeeedce15a0b0341050c5d39450/8d0808a8f902b59c1ada831e9f8a067c62e06a93000bd5ff35dabad2d6938102.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/e1/e116deeeedce15a0b0341050c5d39450/8d0808a8f902b59c1ada831e9f8a067c62e06a93000bd5ff35dabad2d6938102-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/e1/e116deeeedce15a0b0341050c5d39450/8d0808a8f902b59c1ada831e9f8a067c62e06a93000bd5ff35dabad2d6938102-300x300.jpg"
             },
             {
                 "url": "https://static.acgsecrets.hk/img/cf/cfb37778a8eaefd666ca5a4cdf901e01/ca1f887fd673a49d577a1aea3a3aa02e317f19762bd8a11667f0a7e5360f48bd.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/cf/cfb37778a8eaefd666ca5a4cdf901e01/ca1f887fd673a49d577a1aea3a3aa02e317f19762bd8a11667f0a7e5360f48bd-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/cf/cfb37778a8eaefd666ca5a4cdf901e01/ca1f887fd673a49d577a1aea3a3aa02e317f19762bd8a11667f0a7e5360f48bd-300x300.jpg"
             }
         ]
     },
@@ -1913,7 +1913,7 @@
             "japanese": "SELECTION PROJECT",
             "chinese": "SELECTION PROJECT"
         },
-        "on_air": {
+        "onAir": {
             "spec": "播放日期：10月1日起／每週五／22時0分",
             "time": "2021-10-01T22:00:00+09:00"
         },
@@ -1922,51 +1922,51 @@
         "castings": [
             {
                 "character": "美山鈴音",
-                "voice_actor": "矢野妃菜喜"
+                "voiceActor": "矢野妃菜喜"
             },
             {
                 "character": "花野井玲那",
-                "voice_actor": "水野朔"
+                "voiceActor": "水野朔"
             },
             {
                 "character": "濱栗広海",
-                "voice_actor": "南雲希美"
+                "voiceActor": "南雲希美"
             },
             {
                 "character": "今鵜凪咲",
-                "voice_actor": "荒井瑠里"
+                "voiceActor": "荒井瑠里"
             },
             {
                 "character": "八木野土香",
-                "voice_actor": "羊宮妃那"
+                "voiceActor": "羊宮妃那"
             },
             {
                 "character": "淀川逢生",
-                "voice_actor": "岩橋由佳"
+                "voiceActor": "岩橋由佳"
             },
             {
                 "character": "小泉詩",
-                "voice_actor": "白河みずな"
+                "voiceActor": "白河みずな"
             },
             {
                 "character": "山鹿栞",
-                "voice_actor": "花井美春"
+                "voiceActor": "花井美春"
             },
             {
                 "character": "当麻まこ",
-                "voice_actor": "下地紫野"
+                "voiceActor": "下地紫野"
             },
             {
                 "character": "来栖セイラ",
-                "voice_actor": "大西沙織"
+                "voiceActor": "大西沙織"
             },
             {
                 "character": "天沢　灯",
-                "voice_actor": "早見沙織"
+                "voiceActor": "早見沙織"
             },
             {
                 "character": "スミパンダ",
-                "voice_actor": "小野大輔"
+                "voiceActor": "小野大輔"
             }
         ],
         "staffs": [
@@ -2015,7 +2015,7 @@
             "japanese": "先輩がうざい後輩の話",
             "chinese": "前輩有夠煩"
         },
-        "on_air": {
+        "onAir": {
             "spec": "播放日期：10月10日起／每週日凌晨／1時0分",
             "time": "2021-10-10T01:00:00+09:00"
         },
@@ -2024,31 +2024,31 @@
         "castings": [
             {
                 "character": "五十嵐双葉",
-                "voice_actor": "楠木ともり"
+                "voiceActor": "楠木ともり"
             },
             {
                 "character": "武田晴海",
-                "voice_actor": "武内駿輔"
+                "voiceActor": "武内駿輔"
             },
             {
                 "character": "桜井桃子",
-                "voice_actor": "早見沙織"
+                "voiceActor": "早見沙織"
             },
             {
                 "character": "風間蒼太",
-                "voice_actor": "土田玲央"
+                "voiceActor": "土田玲央"
             },
             {
                 "character": "黒部夏美",
-                "voice_actor": "青山玲菜"
+                "voiceActor": "青山玲菜"
             },
             {
                 "character": "桜井優人",
-                "voice_actor": "堀江由衣"
+                "voiceActor": "堀江由衣"
             },
             {
                 "character": "月城モナ",
-                "voice_actor": "古賀 葵"
+                "voiceActor": "古賀 葵"
             }
         ],
         "staffs": [
@@ -2111,11 +2111,11 @@
             },
             {
                 "url": "https://static.acgsecrets.hk/img/6b/6b9fa287772dea73ff50cc36016de6e3/b0b40268f6ccb744eeadbb8846065267bcc89a2c2c0c0c367eb31892dc0b7a37.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/6b/6b9fa287772dea73ff50cc36016de6e3/b0b40268f6ccb744eeadbb8846065267bcc89a2c2c0c0c367eb31892dc0b7a37-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/6b/6b9fa287772dea73ff50cc36016de6e3/b0b40268f6ccb744eeadbb8846065267bcc89a2c2c0c0c367eb31892dc0b7a37-300x300.jpg"
             },
             {
                 "url": "https://static.acgsecrets.hk/img/4f/4fb15611c61495598d40366d173329ef/22ee308ae696e39c17147131927734675fada06915c319392ae3a695cac2a3fc.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/4f/4fb15611c61495598d40366d173329ef/22ee308ae696e39c17147131927734675fada06915c319392ae3a695cac2a3fc-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/4f/4fb15611c61495598d40366d173329ef/22ee308ae696e39c17147131927734675fada06915c319392ae3a695cac2a3fc-300x300.jpg"
             }
         ]
     },
@@ -2125,7 +2125,7 @@
             "japanese": "進化の実 ～知らないうちに勝ち組人生～",
             "chinese": "進化果實～不知不覺踏上勝利的人生～"
         },
-        "on_air": {
+        "onAir": {
             "spec": "播放日期：10月5日起／每週二凌晨／2時0分",
             "time": "2021-10-05T02:00:00+09:00"
         },
@@ -2134,43 +2134,43 @@
         "castings": [
             {
                 "character": "柊誠一",
-                "voice_actor": "下野紘"
+                "voiceActor": "下野紘"
             },
             {
                 "character": "サリア",
-                "voice_actor": "花澤香菜"
+                "voiceActor": "花澤香菜"
             },
             {
                 "character": "アルトリア・グレム",
-                "voice_actor": "井上麻里奈"
+                "voiceActor": "井上麻里奈"
             },
             {
                 "character": "ガッスル・クルート",
-                "voice_actor": "稲田徹"
+                "voiceActor": "稲田徹"
             },
             {
                 "character": "エリス・マクレーヌ",
-                "voice_actor": "西尾夕香"
+                "voiceActor": "西尾夕香"
             },
             {
                 "character": "ルルネ",
-                "voice_actor": "西本りみ"
+                "voiceActor": "西本りみ"
             },
             {
                 "character": "神無月華蓮",
-                "voice_actor": "南條愛乃"
+                "voiceActor": "南條愛乃"
             },
             {
                 "character": "ルイエス・バルゼ",
-                "voice_actor": "日笠陽子"
+                "voiceActor": "日笠陽子"
             },
             {
                 "character": "羊さん",
-                "voice_actor": "新井里美"
+                "voiceActor": "新井里美"
             },
             {
                 "character": "オリガ・カルメリア",
-                "voice_actor": "久保ユリカ"
+                "voiceActor": "久保ユリカ"
             }
         ],
         "staffs": [
@@ -2249,15 +2249,15 @@
             },
             {
                 "url": "https://static.acgsecrets.hk/img/e8/e8594b685481d476cab9409534671b4d/4194780e4647b77dc29cbb23bfac5e54d47c182a63fcbc8b4252d089bd2bd03a.png",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/e8/e8594b685481d476cab9409534671b4d/4194780e4647b77dc29cbb23bfac5e54d47c182a63fcbc8b4252d089bd2bd03a-300x300.png"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/e8/e8594b685481d476cab9409534671b4d/4194780e4647b77dc29cbb23bfac5e54d47c182a63fcbc8b4252d089bd2bd03a-300x300.png"
             },
             {
                 "url": "https://static.acgsecrets.hk/img/61/617da76ce97ee1f25b6e092f2216b6fc/c2c25b37615118394afb3ee21beaa30a09c4c70f9434851a8293d68c59bfe056.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/61/617da76ce97ee1f25b6e092f2216b6fc/c2c25b37615118394afb3ee21beaa30a09c4c70f9434851a8293d68c59bfe056-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/61/617da76ce97ee1f25b6e092f2216b6fc/c2c25b37615118394afb3ee21beaa30a09c4c70f9434851a8293d68c59bfe056-300x300.jpg"
             },
             {
                 "url": "https://static.acgsecrets.hk/img/45/451f3a6bed726836fdbd25f1193b980f/247690b089618f7842256ed6b5b8109968322820673ca6897ca63680b799ff4c.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/45/451f3a6bed726836fdbd25f1193b980f/247690b089618f7842256ed6b5b8109968322820673ca6897ca63680b799ff4c-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/45/451f3a6bed726836fdbd25f1193b980f/247690b089618f7842256ed6b5b8109968322820673ca6897ca63680b799ff4c-300x300.jpg"
             }
         ]
     },
@@ -2267,7 +2267,7 @@
             "japanese": "プラチナエンド",
             "chinese": "PLATINUM END～明日的天使～"
         },
-        "on_air": {
+        "onAir": {
             "spec": "播放日期：10月8日起／每週五凌晨／1時28分",
             "time": "2021-10-08T01:28:00+09:00"
         },
@@ -2276,51 +2276,51 @@
         "castings": [
             {
                 "character": "架橋 明日",
-                "voice_actor": "入野自由"
+                "voiceActor": "入野自由"
             },
             {
                 "character": "ナッセ",
-                "voice_actor": "小倉唯"
+                "voiceActor": "小倉唯"
             },
             {
                 "character": "花籠 咲",
-                "voice_actor": "M・A・O"
+                "voiceActor": "M・A・O"
             },
             {
                 "character": "ルベル",
-                "voice_actor": "花江夏樹"
+                "voiceActor": "花江夏樹"
             },
             {
                 "character": "六階堂 七斗",
-                "voice_actor": "森川智之"
+                "voiceActor": "森川智之"
             },
             {
                 "character": "バレ",
-                "voice_actor": "茅野愛衣"
+                "voiceActor": "茅野愛衣"
             },
             {
                 "character": "生流 奏",
-                "voice_actor": "石川界人"
+                "voiceActor": "石川界人"
             },
             {
                 "character": "メイザ",
-                "voice_actor": "井上喜久子"
+                "voiceActor": "井上喜久子"
             },
             {
                 "character": "底谷 一",
-                "voice_actor": "前野智昭"
+                "voiceActor": "前野智昭"
             },
             {
                 "character": "バルタ",
-                "voice_actor": "緑川光"
+                "voiceActor": "緑川光"
             },
             {
                 "character": "山田美々々",
-                "voice_actor": "前田佳織里"
+                "voiceActor": "前田佳織里"
             },
             {
                 "character": "南河水清",
-                "voice_actor": "千葉翔也"
+                "voiceActor": "千葉翔也"
             }
         ],
         "staffs": [
@@ -2367,11 +2367,11 @@
             },
             {
                 "url": "https://static.acgsecrets.hk/img/5b/5bc98fa650ede0a13a54ab4bc1ea11b3/8a287a8ec7bf5c662920253a2c72887d65028217f9b3933e4f73624575523f8a.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/5b/5bc98fa650ede0a13a54ab4bc1ea11b3/8a287a8ec7bf5c662920253a2c72887d65028217f9b3933e4f73624575523f8a-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/5b/5bc98fa650ede0a13a54ab4bc1ea11b3/8a287a8ec7bf5c662920253a2c72887d65028217f9b3933e4f73624575523f8a-300x300.jpg"
             },
             {
                 "url": "https://static.acgsecrets.hk/img/f0/f06cb9bca3287a94f7f3f6ac1ac41b44/25ced6baa5e9991c4171cb3bb57ff7e835bcdee6d1c4d799833ea43bcf9dd570.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/f0/f06cb9bca3287a94f7f3f6ac1ac41b44/25ced6baa5e9991c4171cb3bb57ff7e835bcdee6d1c4d799833ea43bcf9dd570-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/f0/f06cb9bca3287a94f7f3f6ac1ac41b44/25ced6baa5e9991c4171cb3bb57ff7e835bcdee6d1c4d799833ea43bcf9dd570-300x300.jpg"
             }
         ]
     },
@@ -2381,7 +2381,7 @@
             "japanese": "180秒で君の耳を幸せにできるか？",
             "chinese": "180秒能讓你的耳朵幸福嗎？"
         },
-        "on_air": {
+        "onAir": {
             "spec": "播放日期：10月15日起／每週五凌晨／1時0分",
             "time": "2021-10-15T01:00:00+09:00"
         },
@@ -2390,31 +2390,31 @@
         "castings": [
             {
                 "character": "澤家月光",
-                "voice_actor": "三上枝織"
+                "voiceActor": "三上枝織"
             },
             {
                 "character": "鏡 秋水",
-                "voice_actor": "三森すずこ"
+                "voiceActor": "三森すずこ"
             },
             {
                 "character": "澤家陽光",
-                "voice_actor": "和氣あず未"
+                "voiceActor": "和氣あず未"
             },
             {
                 "character": "澤家雨読",
-                "voice_actor": "伊藤かな恵"
+                "voiceActor": "伊藤かな恵"
             },
             {
                 "character": "ナナコ",
-                "voice_actor": "芹澤 優"
+                "voiceActor": "芹澤 優"
             },
             {
                 "character": "カナコ",
-                "voice_actor": "古賀 葵"
+                "voiceActor": "古賀 葵"
             },
             {
                 "character": "二郎",
-                "voice_actor": "速水 奨"
+                "voiceActor": "速水 奨"
             }
         ],
         "staffs": [
@@ -2443,7 +2443,7 @@
             "japanese": "吸血鬼すぐ死ぬ",
             "chinese": "吸血鬼馬上死"
         },
-        "on_air": {
+        "onAir": {
             "spec": "播放日期：10月4日起／每週一／23時0分",
             "time": "2021-10-04T23:00:00+09:00"
         },
@@ -2452,43 +2452,43 @@
         "castings": [
             {
                 "character": "ドラルク",
-                "voice_actor": "福山 潤"
+                "voiceActor": "福山 潤"
             },
             {
                 "character": "ロナルド",
-                "voice_actor": "古川 慎"
+                "voiceActor": "古川 慎"
             },
             {
                 "character": "ジョン",
-                "voice_actor": "田村睦心"
+                "voiceActor": "田村睦心"
             },
             {
                 "character": "ヒナイチ",
-                "voice_actor": "日岡なつみ"
+                "voiceActor": "日岡なつみ"
             },
             {
                 "character": "半田 桃",
-                "voice_actor": "松岡禎丞"
+                "voiceActor": "松岡禎丞"
             },
             {
                 "character": "サテツ",
-                "voice_actor": "細谷佳正"
+                "voiceActor": "細谷佳正"
             },
             {
                 "character": "ショット",
-                "voice_actor": "田丸篤志"
+                "voiceActor": "田丸篤志"
             },
             {
                 "character": "フクマ",
-                "voice_actor": "土岐隼一"
+                "voiceActor": "土岐隼一"
             },
             {
                 "character": "ヒヨシ",
-                "voice_actor": "小野大輔"
+                "voiceActor": "小野大輔"
             },
             {
                 "character": "カメ谷",
-                "voice_actor": "近藤孝行"
+                "voiceActor": "近藤孝行"
             }
         ],
         "staffs": [
@@ -2563,11 +2563,11 @@
             },
             {
                 "url": "https://static.acgsecrets.hk/img/61/617048e594cc99067d5161d3b3f30a62/3e82855f923bc4311bde4db1d57da3dafcb5c93618d36961e721384b0885d5c5.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/61/617048e594cc99067d5161d3b3f30a62/3e82855f923bc4311bde4db1d57da3dafcb5c93618d36961e721384b0885d5c5-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/61/617048e594cc99067d5161d3b3f30a62/3e82855f923bc4311bde4db1d57da3dafcb5c93618d36961e721384b0885d5c5-300x300.jpg"
             },
             {
                 "url": "https://static.acgsecrets.hk/img/d1/d16c55aa1f4140738c63e3402b5bc0e4/4fa3f3f650a9fef2753470a54770c53caa279f8056571d3756b8d27b95022dd5.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/d1/d16c55aa1f4140738c63e3402b5bc0e4/4fa3f3f650a9fef2753470a54770c53caa279f8056571d3756b8d27b95022dd5-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/d1/d16c55aa1f4140738c63e3402b5bc0e4/4fa3f3f650a9fef2753470a54770c53caa279f8056571d3756b8d27b95022dd5-300x300.jpg"
             }
         ]
     },
@@ -2577,7 +2577,7 @@
             "japanese": "月とライカと吸血姫",
             "chinese": "月與萊卡與吸血公主"
         },
-        "on_air": {
+        "onAir": {
             "spec": "播放日期：10月4日起／每週一凌晨／1時35分",
             "time": "2021-10-04T01:35:00+09:00"
         },
@@ -2586,47 +2586,47 @@
         "castings": [
             {
                 "character": "イリナ・ルミネスク",
-                "voice_actor": "林原めぐみ"
+                "voiceActor": "林原めぐみ"
             },
             {
                 "character": "レフ・レプス",
-                "voice_actor": "内山昂輝"
+                "voiceActor": "内山昂輝"
             },
             {
                 "character": "ミハイル・ヤシン",
-                "voice_actor": "日野聡"
+                "voiceActor": "日野聡"
             },
             {
                 "character": "ローザ・プレヴィツカヤ",
-                "voice_actor": "小松未可子"
+                "voiceActor": "小松未可子"
             },
             {
                 "character": "アーニャ・シモニャン",
-                "voice_actor": "木野日菜"
+                "voiceActor": "木野日菜"
             },
             {
                 "character": "スラヴァ・コローヴィン",
-                "voice_actor": "土師孝也"
+                "voiceActor": "土師孝也"
             },
             {
                 "character": "ヴィクトール中将",
-                "voice_actor": "てらそままさき"
+                "voiceActor": "てらそままさき"
             },
             {
                 "character": "ナタリア",
-                "voice_actor": "井上喜久子"
+                "voiceActor": "井上喜久子"
             },
             {
                 "character": "フョードル・ゲルギエフ",
-                "voice_actor": "緒方賢一"
+                "voiceActor": "緒方賢一"
             },
             {
                 "character": "リュドミラ・ハルロヴァ",
-                "voice_actor": "M・A・O"
+                "voiceActor": "M・A・O"
             },
             {
                 "character": "ナレーション",
-                "voice_actor": "東地宏樹"
+                "voiceActor": "東地宏樹"
             }
         ],
         "staffs": [
@@ -2697,11 +2697,11 @@
             },
             {
                 "url": "https://static.acgsecrets.hk/img/42/4271416bd6d918c888a1a07f4a31047f/4338710a90add982b9e14bf032d66cb4f8a331a118a1af5207b33c9d9657530d.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/42/4271416bd6d918c888a1a07f4a31047f/4338710a90add982b9e14bf032d66cb4f8a331a118a1af5207b33c9d9657530d-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/42/4271416bd6d918c888a1a07f4a31047f/4338710a90add982b9e14bf032d66cb4f8a331a118a1af5207b33c9d9657530d-300x300.jpg"
             },
             {
                 "url": "https://static.acgsecrets.hk/img/ac/ac85881ca78e8c593f2a2e408439acfa/e7161a2c6a3f882e42d1f28ab9e1bdf9048c864afa00cf12281322beadfb6dad.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/ac/ac85881ca78e8c593f2a2e408439acfa/e7161a2c6a3f882e42d1f28ab9e1bdf9048c864afa00cf12281322beadfb6dad-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/ac/ac85881ca78e8c593f2a2e408439acfa/e7161a2c6a3f882e42d1f28ab9e1bdf9048c864afa00cf12281322beadfb6dad-300x300.jpg"
             }
         ]
     },
@@ -2711,7 +2711,7 @@
             "japanese": "大正オトメ御伽話",
             "chinese": "大正處女御伽話"
         },
-        "on_air": {
+        "onAir": {
             "spec": "播放日期：10月9日起／每週六凌晨／1時53分",
             "time": "2021-10-09T01:53:00+09:00"
         },
@@ -2720,27 +2720,27 @@
         "castings": [
             {
                 "character": "志磨珠彦",
-                "voice_actor": "小林裕介"
+                "voiceActor": "小林裕介"
             },
             {
                 "character": "立花夕月",
-                "voice_actor": "会沢紗弥"
+                "voiceActor": "会沢紗弥"
             },
             {
                 "character": "志磨珠子",
-                "voice_actor": "宮本侑芽"
+                "voiceActor": "宮本侑芽"
             },
             {
                 "character": "渥美 綾",
-                "voice_actor": "安済知佳"
+                "voiceActor": "安済知佳"
             },
             {
                 "character": "白鳥ことり",
-                "voice_actor": "伊藤彩沙"
+                "voiceActor": "伊藤彩沙"
             },
             {
                 "character": "白鳥 策",
-                "voice_actor": "土岐隼一"
+                "voiceActor": "土岐隼一"
             }
         ],
         "staffs": [
@@ -2811,11 +2811,11 @@
             },
             {
                 "url": "https://static.acgsecrets.hk/img/df/dfe5e532eb60390f5dd3d5d818ee3f17/121e2fbc7ca1670478bf2b0bb866359932a25f83d5133aa9747df18543dcef87.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/df/dfe5e532eb60390f5dd3d5d818ee3f17/121e2fbc7ca1670478bf2b0bb866359932a25f83d5133aa9747df18543dcef87-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/df/dfe5e532eb60390f5dd3d5d818ee3f17/121e2fbc7ca1670478bf2b0bb866359932a25f83d5133aa9747df18543dcef87-300x300.jpg"
             },
             {
                 "url": "https://static.acgsecrets.hk/img/8e/8ebf4424b3c6ea2c421a25d18e302b79/d01e60fa03f0783ec6ede6bc57b273325a9a499909d6e162463b2e056ce414ec.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/8e/8ebf4424b3c6ea2c421a25d18e302b79/d01e60fa03f0783ec6ede6bc57b273325a9a499909d6e162463b2e056ce414ec-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/8e/8ebf4424b3c6ea2c421a25d18e302b79/d01e60fa03f0783ec6ede6bc57b273325a9a499909d6e162463b2e056ce414ec-300x300.jpg"
             }
         ]
     },
@@ -2825,7 +2825,7 @@
             "japanese": "ヴィジュアルプリズン",
             "chinese": "Visual Prison"
         },
-        "on_air": {
+        "onAir": {
             "spec": "播放日期：10月9日起／每週六凌晨／0時0分",
             "time": "2021-10-09T00:00:00+09:00"
         },
@@ -2834,43 +2834,43 @@
         "castings": [
             {
                 "character": "結希アンジュ",
-                "voice_actor": "千葉翔也"
+                "voiceActor": "千葉翔也"
             },
             {
                 "character": "ギルティア・ブリオン",
-                "voice_actor": "古川 慎"
+                "voiceActor": "古川 慎"
             },
             {
                 "character": "イヴ・ルイーズ",
-                "voice_actor": "七海ひろき"
+                "voiceActor": "七海ひろき"
             },
             {
                 "character": "ロビン・ラフィット",
-                "voice_actor": "堀江 瞬"
+                "voiceActor": "堀江 瞬"
             },
             {
                 "character": "サガ・ラトゥール",
-                "voice_actor": "江口拓也"
+                "voiceActor": "江口拓也"
             },
             {
                 "character": "ミスト・フレーヴ",
-                "voice_actor": "島﨑信長"
+                "voiceActor": "島﨑信長"
             },
             {
                 "character": "ヴーヴ・エリザベス",
-                "voice_actor": "永塚拓馬"
+                "voiceActor": "永塚拓馬"
             },
             {
                 "character": "ジャック・ムートン",
-                "voice_actor": "矢野奨吾"
+                "voiceActor": "矢野奨吾"
             },
             {
                 "character": "ディミトリ・ロマネ",
-                "voice_actor": "増田俊樹"
+                "voiceActor": "増田俊樹"
             },
             {
                 "character": "ハイド・ジャイエ",
-                "voice_actor": "蒼井翔太"
+                "voiceActor": "蒼井翔太"
             }
         ],
         "staffs": [
@@ -2957,23 +2957,23 @@
             },
             {
                 "url": "https://static.acgsecrets.hk/img/22/22c67d11e2f54e081bb8dc2f0d6b86e7/45c1544108b0adaf503c33a584334347b53b53b0c9b623278761c059dffbeb76.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/22/22c67d11e2f54e081bb8dc2f0d6b86e7/45c1544108b0adaf503c33a584334347b53b53b0c9b623278761c059dffbeb76-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/22/22c67d11e2f54e081bb8dc2f0d6b86e7/45c1544108b0adaf503c33a584334347b53b53b0c9b623278761c059dffbeb76-300x300.jpg"
             },
             {
                 "url": "https://static.acgsecrets.hk/img/cb/cbc610a0e53c4f00a2c0b55b654700d7/e14fc3a1b4944d5ba3f35287cf21cbd74d6093cc21d3c9a3b04fb2242fc73bce.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/cb/cbc610a0e53c4f00a2c0b55b654700d7/e14fc3a1b4944d5ba3f35287cf21cbd74d6093cc21d3c9a3b04fb2242fc73bce-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/cb/cbc610a0e53c4f00a2c0b55b654700d7/e14fc3a1b4944d5ba3f35287cf21cbd74d6093cc21d3c9a3b04fb2242fc73bce-300x300.jpg"
             },
             {
                 "url": "https://static.acgsecrets.hk/img/21/215b4ecd7e8a975df1c1836a84cc02ca/bd5cbd13c353317c6eb0d2904a4b96b2d1105d6469ca4f73fe1ac6fa2f256a91.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/21/215b4ecd7e8a975df1c1836a84cc02ca/bd5cbd13c353317c6eb0d2904a4b96b2d1105d6469ca4f73fe1ac6fa2f256a91-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/21/215b4ecd7e8a975df1c1836a84cc02ca/bd5cbd13c353317c6eb0d2904a4b96b2d1105d6469ca4f73fe1ac6fa2f256a91-300x300.jpg"
             },
             {
                 "url": "https://static.acgsecrets.hk/img/18/188eab5f4f9de5427d08309bc34f1f83/9471a4cef3a24c3ab43cb39dea422b4f9dc1316b3c288b08cd066521e224ec18.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/18/188eab5f4f9de5427d08309bc34f1f83/9471a4cef3a24c3ab43cb39dea422b4f9dc1316b3c288b08cd066521e224ec18-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/18/188eab5f4f9de5427d08309bc34f1f83/9471a4cef3a24c3ab43cb39dea422b4f9dc1316b3c288b08cd066521e224ec18-300x300.jpg"
             },
             {
                 "url": "https://static.acgsecrets.hk/img/56/56bcc153f33438266be4721e304dfa17/99f21af9426b1d47426fba600dc5e299fd4c8356963ee02d43e2f6353a5f46b6.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/56/56bcc153f33438266be4721e304dfa17/99f21af9426b1d47426fba600dc5e299fd4c8356963ee02d43e2f6353a5f46b6-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/56/56bcc153f33438266be4721e304dfa17/99f21af9426b1d47426fba600dc5e299fd4c8356963ee02d43e2f6353a5f46b6-300x300.jpg"
             }
         ]
     },
@@ -2983,7 +2983,7 @@
             "japanese": "境界戦機",
             "chinese": "境界戰機"
         },
-        "on_air": {
+        "onAir": {
             "spec": "播放日期：10月5日起／每週二凌晨／1時30分",
             "time": "2021-10-05T01:30:00+09:00"
         },
@@ -2992,11 +2992,11 @@
         "castings": [
             {
                 "character": "椎葉 アモウ",
-                "voice_actor": "佐藤元"
+                "voiceActor": "佐藤元"
             },
             {
                 "character": "I-LeS ガイ",
-                "voice_actor": "藤原夏海"
+                "voiceActor": "藤原夏海"
             }
         ],
         "staffs": [
@@ -3035,11 +3035,11 @@
             },
             {
                 "url": "https://static.acgsecrets.hk/img/00/007f0b8974f442882738fbf9f05158aa/d49ca2891adc00f7de0669f25414bdf30ad00d7e362073c57ed1d5c4654a89ca.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/00/007f0b8974f442882738fbf9f05158aa/d49ca2891adc00f7de0669f25414bdf30ad00d7e362073c57ed1d5c4654a89ca-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/00/007f0b8974f442882738fbf9f05158aa/d49ca2891adc00f7de0669f25414bdf30ad00d7e362073c57ed1d5c4654a89ca-300x300.jpg"
             },
             {
                 "url": "https://static.acgsecrets.hk/img/a2/a2d8a27511600f863b1ae9edd66afc7a/430ae99ed57faf1c142cf65bbc52386423d09fc335295931a3fcf28fb041121b.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/a2/a2d8a27511600f863b1ae9edd66afc7a/430ae99ed57faf1c142cf65bbc52386423d09fc335295931a3fcf28fb041121b-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/a2/a2d8a27511600f863b1ae9edd66afc7a/430ae99ed57faf1c142cf65bbc52386423d09fc335295931a3fcf28fb041121b-300x300.jpg"
             }
         ]
     },
@@ -3049,7 +3049,7 @@
             "japanese": "ディープインサニティ ザ・ロストチャイルド",
             "chinese": "狂熱深淵 迷失的孩子"
         },
-        "on_air": {
+        "onAir": {
             "spec": "播放日期：10月13日起／每週三凌晨／0時30分",
             "time": "2021-10-13T00:30:00+09:00"
         },
@@ -3058,31 +3058,31 @@
         "castings": [
             {
                 "character": "時雨・ダニエル・魁",
-                "voice_actor": "下野紘"
+                "voiceActor": "下野紘"
             },
             {
                 "character": "ヴェーラ・ルスタモワ",
-                "voice_actor": "小清水亜美"
+                "voiceActor": "小清水亜美"
             },
             {
                 "character": "レスリー・ブラン",
-                "voice_actor": "鳥海浩輔"
+                "voiceActor": "鳥海浩輔"
             },
             {
                 "character": "ローレンス・ラリー・ジャクソン",
-                "voice_actor": "広瀬裕也"
+                "voiceActor": "広瀬裕也"
             },
             {
                 "character": "小鳩玲香",
-                "voice_actor": "野口瑠璃子"
+                "voiceActor": "野口瑠璃子"
             },
             {
                 "character": "餅木スミレ",
-                "voice_actor": "本渡楓"
+                "voiceActor": "本渡楓"
             },
             {
                 "character": "エルシー",
-                "voice_actor": "田中貴子"
+                "voiceActor": "田中貴子"
             }
         ],
         "staffs": [
@@ -3137,11 +3137,11 @@
             },
             {
                 "url": "https://static.acgsecrets.hk/img/8d/8dd61c67e499741d3e2e5e853231b266/90d9d2a52fae43923b59bf534e8aa46ed419d68ed61f88d876bef578314a0fab.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/8d/8dd61c67e499741d3e2e5e853231b266/90d9d2a52fae43923b59bf534e8aa46ed419d68ed61f88d876bef578314a0fab-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/8d/8dd61c67e499741d3e2e5e853231b266/90d9d2a52fae43923b59bf534e8aa46ed419d68ed61f88d876bef578314a0fab-300x300.jpg"
             },
             {
                 "url": "https://static.acgsecrets.hk/img/ce/ce01c1a8afadc343062f113ca7d662cc/07b49ab75fe3f6f2fc7555fa564802ae1784674dcadc600948d599f3f77dd79d.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/ce/ce01c1a8afadc343062f113ca7d662cc/07b49ab75fe3f6f2fc7555fa564802ae1784674dcadc600948d599f3f77dd79d-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/ce/ce01c1a8afadc343062f113ca7d662cc/07b49ab75fe3f6f2fc7555fa564802ae1784674dcadc600948d599f3f77dd79d-300x300.jpg"
             }
         ]
     },
@@ -3151,7 +3151,7 @@
             "japanese": "さんかく窓の外側は夜",
             "chinese": "三角窗外是黑夜"
         },
-        "on_air": {
+        "onAir": {
             "spec": "播放日期：10月3日起／每週日／22時0分",
             "time": "2021-10-03T22:00:00+09:00"
         },
@@ -3160,27 +3160,27 @@
         "castings": [
             {
                 "character": "三角康介",
-                "voice_actor": "島﨑信長"
+                "voiceActor": "島﨑信長"
             },
             {
                 "character": "冷川理人",
-                "voice_actor": "羽多野 渉"
+                "voiceActor": "羽多野 渉"
             },
             {
                 "character": "迎 系多",
-                "voice_actor": "斉藤壮馬"
+                "voiceActor": "斉藤壮馬"
             },
             {
                 "character": "非浦英莉可",
-                "voice_actor": "安済知佳"
+                "voiceActor": "安済知佳"
             },
             {
                 "character": "半澤日路輝",
-                "voice_actor": "三上 哲"
+                "voiceActor": "三上 哲"
             },
             {
                 "character": "逆木一臣",
-                "voice_actor": "諏訪部順一"
+                "voiceActor": "諏訪部順一"
             }
         ],
         "staffs": [
@@ -3211,11 +3211,11 @@
             },
             {
                 "url": "https://static.acgsecrets.hk/img/dd/dd94d99d27408ffd12befd932b4fc6bd/c081b7e9bf9c89f90eeb29a334be0cfeee33d7644dee9295442349627a3cf811.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/dd/dd94d99d27408ffd12befd932b4fc6bd/c081b7e9bf9c89f90eeb29a334be0cfeee33d7644dee9295442349627a3cf811-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/dd/dd94d99d27408ffd12befd932b4fc6bd/c081b7e9bf9c89f90eeb29a334be0cfeee33d7644dee9295442349627a3cf811-300x300.jpg"
             },
             {
                 "url": "https://static.acgsecrets.hk/img/a0/a0e8b248ef8498ed2e1adeab5f93a43a/804686b684103828da5ea91e6ad62dea07b4d090c359dbf095ce24616a4ba352.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/a0/a0e8b248ef8498ed2e1adeab5f93a43a/804686b684103828da5ea91e6ad62dea07b4d090c359dbf095ce24616a4ba352-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/a0/a0e8b248ef8498ed2e1adeab5f93a43a/804686b684103828da5ea91e6ad62dea07b4d090c359dbf095ce24616a4ba352-300x300.jpg"
             }
         ]
     },
@@ -3225,7 +3225,7 @@
             "japanese": "結城友奈は勇者である 大満開の章",
             "chinese": "結城友奈是勇者 大滿開之章"
         },
-        "on_air": {
+        "onAir": {
             "spec": "播放日期：10月2日起／每週六凌晨／1時55分",
             "time": "2021-10-02T01:55:00+09:00"
         },
@@ -3234,27 +3234,27 @@
         "castings": [
             {
                 "character": "結城友奈",
-                "voice_actor": "照井春佳"
+                "voiceActor": "照井春佳"
             },
             {
                 "character": "東郷美森",
-                "voice_actor": "三森すずこ"
+                "voiceActor": "三森すずこ"
             },
             {
                 "character": "犬吠埼風",
-                "voice_actor": "内山夕実"
+                "voiceActor": "内山夕実"
             },
             {
                 "character": "犬吠埼樹",
-                "voice_actor": "黒沢ともよ"
+                "voiceActor": "黒沢ともよ"
             },
             {
                 "character": "三好夏凜",
-                "voice_actor": "長妻樹里"
+                "voiceActor": "長妻樹里"
             },
             {
                 "character": "乃木園子",
-                "voice_actor": "花澤香菜"
+                "voiceActor": "花澤香菜"
             }
         ],
         "staffs": [
@@ -3315,7 +3315,7 @@
             "japanese": "プラオレ！～PRIDE OF ORANGE～",
             "chinese": "橘色榮耀！"
         },
-        "on_air": {
+        "onAir": {
             "spec": "播放日期：10月6日起／每週三／23時0分",
             "time": "2021-10-06T23:00:00+09:00"
         },
@@ -3324,91 +3324,91 @@
         "castings": [
             {
                 "character": "水沢愛佳",
-                "voice_actor": "増田里紅"
+                "voiceActor": "増田里紅"
             },
             {
                 "character": "清瀬優",
-                "voice_actor": "本郷里実"
+                "voiceActor": "本郷里実"
             },
             {
                 "character": "水沢彩佳",
-                "voice_actor": "相良茉優"
+                "voiceActor": "相良茉優"
             },
             {
                 "character": "鷺沼梨子",
-                "voice_actor": "北守さいか"
+                "voiceActor": "北守さいか"
             },
             {
                 "character": "高木尚実",
-                "voice_actor": "汐入あすか"
+                "voiceActor": "汐入あすか"
             },
             {
                 "character": "柳田薫子",
-                "voice_actor": "森山由梨佳"
+                "voiceActor": "森山由梨佳"
             },
             {
                 "character": "小野真美",
-                "voice_actor": "青山吉能"
+                "voiceActor": "青山吉能"
             },
             {
                 "character": "米山 千奈",
-                "voice_actor": "東城日沙子"
+                "voiceActor": "東城日沙子"
             },
             {
                 "character": "菊池 樹里",
-                "voice_actor": "青木瑠璃子"
+                "voiceActor": "青木瑠璃子"
             },
             {
                 "character": "浮田 志乃",
-                "voice_actor": "鈴木愛奈"
+                "voiceActor": "鈴木愛奈"
             },
             {
                 "character": "平野 るな",
-                "voice_actor": "松井恵理子"
+                "voiceActor": "松井恵理子"
             },
             {
                 "character": "獅子内 湊",
-                "voice_actor": "星ノ谷しずく"
+                "voiceActor": "星ノ谷しずく"
             },
             {
                 "character": "藤代 もな",
-                "voice_actor": "高瀬くるみ"
+                "voiceActor": "高瀬くるみ"
             },
             {
                 "character": "久賀 セイコ",
-                "voice_actor": "相羽あいな"
+                "voiceActor": "相羽あいな"
             },
             {
                 "character": "飯原 有香",
-                "voice_actor": "伊藤美来"
+                "voiceActor": "伊藤美来"
             },
             {
                 "character": "貝原 さちえ",
-                "voice_actor": "後藤彩佐"
+                "voiceActor": "後藤彩佐"
             },
             {
                 "character": "山中 依里",
-                "voice_actor": "三森すずこ"
+                "voiceActor": "三森すずこ"
             },
             {
                 "character": "吉池 えま",
-                "voice_actor": "徳井青空"
+                "voiceActor": "徳井青空"
             },
             {
                 "character": "照屋 理央",
-                "voice_actor": "大関英里"
+                "voiceActor": "大関英里"
             },
             {
                 "character": "マヤ・ウォーカー",
-                "voice_actor": "上坂すみれ"
+                "voiceActor": "上坂すみれ"
             },
             {
                 "character": "松永羊子",
-                "voice_actor": "小松未可子"
+                "voiceActor": "小松未可子"
             },
             {
                 "character": "佐藤 想",
-                "voice_actor": "長谷川芳明"
+                "voiceActor": "長谷川芳明"
             }
         ],
         "staffs": [
@@ -3451,15 +3451,19 @@
         ],
         "images": [
             {
-                "url": "https://static.acgsecrets.hk/img/e2/e2258765bffb7cd086dbfa65613cd637/b7e065f9b34ce6b8ead104531d8f693960f7587e94018b880b182185379f2121.jpg"
+                "url": "https://static.acgsecrets.hk/img/c5/c51378a323264d36b3d2644116608bd9/1434f935da8571efbcff35fb03413b205c46d0b5a9401ac9b59c5d326128ce70.jpg"
             },
             {
                 "url": "https://static.acgsecrets.hk/img/e2/e2258765bffb7cd086dbfa65613cd637/b7e065f9b34ce6b8ead104531d8f693960f7587e94018b880b182185379f2121.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/e2/e2258765bffb7cd086dbfa65613cd637/b7e065f9b34ce6b8ead104531d8f693960f7587e94018b880b182185379f2121-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/e2/e2258765bffb7cd086dbfa65613cd637/b7e065f9b34ce6b8ead104531d8f693960f7587e94018b880b182185379f2121-300x300.jpg"
             },
             {
                 "url": "https://static.acgsecrets.hk/img/bc/bc61dbde1ce81ea3fe6a29275a725a39/e6dd85062a7445a5bd80793f9d3d8539431f7149a8f7154d4dfce7efd690f862.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/bc/bc61dbde1ce81ea3fe6a29275a725a39/e6dd85062a7445a5bd80793f9d3d8539431f7149a8f7154d4dfce7efd690f862-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/bc/bc61dbde1ce81ea3fe6a29275a725a39/e6dd85062a7445a5bd80793f9d3d8539431f7149a8f7154d4dfce7efd690f862-300x300.jpg"
+            },
+            {
+                "url": "https://static.acgsecrets.hk/img/c5/c51378a323264d36b3d2644116608bd9/1434f935da8571efbcff35fb03413b205c46d0b5a9401ac9b59c5d326128ce70.jpg",
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/c5/c51378a323264d36b3d2644116608bd9/1434f935da8571efbcff35fb03413b205c46d0b5a9401ac9b59c5d326128ce70-300x300.jpg"
             }
         ]
     },
@@ -3469,7 +3473,7 @@
             "japanese": "ワールドトリガー 3rdシーズン",
             "chinese": "境界觸發者 3rd Season"
         },
-        "on_air": {
+        "onAir": {
             "spec": "播放日期：10月10日起／每週日凌晨／1時30分",
             "time": "2021-10-10T01:30:00+09:00"
         },
@@ -3478,23 +3482,23 @@
         "castings": [
             {
                 "character": "空閑 遊真",
-                "voice_actor": "村中 知"
+                "voiceActor": "村中 知"
             },
             {
                 "character": "三雲 修",
-                "voice_actor": "梶 裕貴"
+                "voiceActor": "梶 裕貴"
             },
             {
                 "character": "雨取 千佳",
-                "voice_actor": "田村 奈央"
+                "voiceActor": "田村 奈央"
             },
             {
                 "character": "迅 悠一",
-                "voice_actor": "中村 悠一"
+                "voiceActor": "中村 悠一"
             },
             {
                 "character": "ヒュース",
-                "voice_actor": "島﨑 信長"
+                "voiceActor": "島﨑 信長"
             }
         ],
         "staffs": [
@@ -3543,7 +3547,7 @@
             "japanese": "キミとフィットボクシング",
             "chinese": "與你一起Fit Boxing"
         },
-        "on_air": {
+        "onAir": {
             "spec": "播放日期：10月1日起／每週五／21時54分",
             "time": "2021-10-01T21:54:00+09:00"
         },
@@ -3552,39 +3556,39 @@
         "castings": [
             {
                 "character": "カレン",
-                "voice_actor": "鬼頭明里"
+                "voiceActor": "鬼頭明里"
             },
             {
                 "character": "ヒロ",
-                "voice_actor": "石田彰"
+                "voiceActor": "石田彰"
             },
             {
                 "character": "ジャニス",
-                "voice_actor": "釘宮理恵"
+                "voiceActor": "釘宮理恵"
             },
             {
                 "character": "リン",
-                "voice_actor": "早見沙織"
+                "voiceActor": "早見沙織"
             },
             {
                 "character": "エヴァン",
-                "voice_actor": "中村悠一"
+                "voiceActor": "中村悠一"
             },
             {
                 "character": "マルティーナ",
-                "voice_actor": "上坂すみれ"
+                "voiceActor": "上坂すみれ"
             },
             {
                 "character": "ソフィ",
-                "voice_actor": "小清水亜美"
+                "voiceActor": "小清水亜美"
             },
             {
                 "character": "ラウラ",
-                "voice_actor": "田中敦子"
+                "voiceActor": "田中敦子"
             },
             {
                 "character": "ベルナルド",
-                "voice_actor": "大塚明夫"
+                "voiceActor": "大塚明夫"
             }
         ],
         "staffs": [
@@ -3629,7 +3633,7 @@
             "japanese": "メガトン級ムサシ",
             "chinese": "百萬噸級武藏"
         },
-        "on_air": {
+        "onAir": {
             "spec": "播放日期：10月1日起／每週五／22時0分",
             "time": "2021-10-01T22:00:00+09:00"
         },
@@ -3638,63 +3642,63 @@
         "castings": [
             {
                 "character": "一大寺大和",
-                "voice_actor": "増田俊樹"
+                "voiceActor": "増田俊樹"
             },
             {
                 "character": "浅海 輝",
-                "voice_actor": "斉藤壮馬"
+                "voiceActor": "斉藤壮馬"
             },
             {
                 "character": "土方龍吾",
-                "voice_actor": "武内駿輔"
+                "voiceActor": "武内駿輔"
             },
             {
                 "character": "神崎明日菜",
-                "voice_actor": "黒沢ともよ"
+                "voiceActor": "黒沢ともよ"
             },
             {
                 "character": "雨宮零士",
-                "voice_actor": "内山昂輝"
+                "voiceActor": "内山昂輝"
             },
             {
                 "character": "霧島ジュン",
-                "voice_actor": "諸星すみれ"
+                "voiceActor": "諸星すみれ"
             },
             {
                 "character": "早乙女萌々香",
-                "voice_actor": "潘 めぐみ"
+                "voiceActor": "潘 めぐみ"
             },
             {
                 "character": "金田一 巧",
-                "voice_actor": "梶 裕貴"
+                "voiceActor": "梶 裕貴"
             },
             {
                 "character": "芥川康太",
-                "voice_actor": "村瀬 歩"
+                "voiceActor": "村瀬 歩"
             },
             {
                 "character": "西野清夏",
-                "voice_actor": "竹達彩奈"
+                "voiceActor": "竹達彩奈"
             },
             {
                 "character": "南 沙也加",
-                "voice_actor": "伊瀬茉莉也"
+                "voiceActor": "伊瀬茉莉也"
             },
             {
                 "character": "天堂初音",
-                "voice_actor": "伊沢磨紀"
+                "voiceActor": "伊沢磨紀"
             },
             {
                 "character": "北根陽葵",
-                "voice_actor": "花守ゆみり"
+                "voiceActor": "花守ゆみり"
             },
             {
                 "character": "星野あおい",
-                "voice_actor": "悠木 碧"
+                "voiceActor": "悠木 碧"
             },
             {
                 "character": "伊伏銀太",
-                "voice_actor": "山路和弘"
+                "voiceActor": "山路和弘"
             }
         ],
         "staffs": [
@@ -3763,7 +3767,7 @@
             "japanese": "シキザクラ",
             "chinese": "四季櫻"
         },
-        "on_air": {
+        "onAir": {
             "spec": "播放日期：10月10日起／每週日凌晨／1時55分",
             "time": "2021-10-10T01:55:00+09:00"
         },
@@ -3772,55 +3776,55 @@
         "castings": [
             {
                 "character": "三輪 翔",
-                "voice_actor": "野田雄大"
+                "voiceActor": "野田雄大"
             },
             {
                 "character": "明神逢花",
-                "voice_actor": "茉白実歩"
+                "voiceActor": "茉白実歩"
             },
             {
                 "character": "永津吉平",
-                "voice_actor": "中元大介"
+                "voiceActor": "中元大介"
             },
             {
                 "character": "服部 涼",
-                "voice_actor": "水上翔斗"
+                "voiceActor": "水上翔斗"
             },
             {
                 "character": "成瀬 楓",
-                "voice_actor": "坂崎絵理"
+                "voiceActor": "坂崎絵理"
             },
             {
                 "character": "山田春子",
-                "voice_actor": "落合菜月"
+                "voiceActor": "落合菜月"
             },
             {
                 "character": "イバラ",
-                "voice_actor": "米山伸伍"
+                "voiceActor": "米山伸伍"
             },
             {
                 "character": "明神紅緒",
-                "voice_actor": "矢方美紀"
+                "voiceActor": "矢方美紀"
             },
             {
                 "character": "雉嶋右近",
-                "voice_actor": "新井ユウト"
+                "voiceActor": "新井ユウト"
             },
             {
                 "character": "犬塚一左",
-                "voice_actor": "イヲリ"
+                "voiceActor": "イヲリ"
             },
             {
                 "character": "遠藤",
-                "voice_actor": "虫眼鏡"
+                "voiceActor": "虫眼鏡"
             },
             {
                 "character": "コアラ幻覚",
-                "voice_actor": "としみつ"
+                "voiceActor": "としみつ"
             },
             {
                 "character": "ガチ勢のおっさん",
-                "voice_actor": "佐藤二朗"
+                "voiceActor": "佐藤二朗"
             }
         ],
         "staffs": [
@@ -3909,7 +3913,7 @@
             "japanese": "ルパン三世 PART6",
             "chinese": "雷朋三世 PART6"
         },
-        "on_air": {
+        "onAir": {
             "spec": "播放日期：10月10日起／每週日凌晨／0時55分",
             "time": "2021-10-10T00:55:00+09:00"
         },
@@ -3918,39 +3922,39 @@
         "castings": [
             {
                 "character": "ルパン三世",
-                "voice_actor": "栗田貫一"
+                "voiceActor": "栗田貫一"
             },
             {
                 "character": "次元大介",
-                "voice_actor": "大塚明夫"
+                "voiceActor": "大塚明夫"
             },
             {
                 "character": "石川五ェ門",
-                "voice_actor": "浪川大輔"
+                "voiceActor": "浪川大輔"
             },
             {
                 "character": "峰 不二子",
-                "voice_actor": "沢城みゆき"
+                "voiceActor": "沢城みゆき"
             },
             {
                 "character": "銭形警部",
-                "voice_actor": "山寺宏一"
+                "voiceActor": "山寺宏一"
             },
             {
                 "character": "八咫烏",
-                "voice_actor": "島﨑信長"
+                "voiceActor": "島﨑信長"
             },
             {
                 "character": "アルベール・ダンドレジー",
-                "voice_actor": "津田健次郎"
+                "voiceActor": "津田健次郎"
             },
             {
                 "character": "ホームズ",
-                "voice_actor": "小原雅人"
+                "voiceActor": "小原雅人"
             },
             {
                 "character": "リリー",
-                "voice_actor": "諸星すみれ"
+                "voiceActor": "諸星すみれ"
             }
         ],
         "staffs": [
@@ -3985,11 +3989,11 @@
             },
             {
                 "url": "https://static.acgsecrets.hk/img/e2/e2c0bb86b9c6f033602233200c5cf6aa/c984e225035c0e8e9c0e8e9a6c63b0f00db2bc3179d5df6d8b14389820c7f031.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/e2/e2c0bb86b9c6f033602233200c5cf6aa/c984e225035c0e8e9c0e8e9a6c63b0f00db2bc3179d5df6d8b14389820c7f031-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/e2/e2c0bb86b9c6f033602233200c5cf6aa/c984e225035c0e8e9c0e8e9a6c63b0f00db2bc3179d5df6d8b14389820c7f031-300x300.jpg"
             },
             {
                 "url": "https://static.acgsecrets.hk/img/f5/f5dd899923f2139e54ef95e927b72575/281452bc6b895d86f185f9e44e15c7704fb2589eada032d6847cffd44bcb5b7a.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/f5/f5dd899923f2139e54ef95e927b72575/281452bc6b895d86f185f9e44e15c7704fb2589eada032d6847cffd44bcb5b7a-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/f5/f5dd899923f2139e54ef95e927b72575/281452bc6b895d86f185f9e44e15c7704fb2589eada032d6847cffd44bcb5b7a-300x300.jpg"
             }
         ]
     },
@@ -3999,7 +4003,7 @@
             "japanese": "でーじミーツガール",
             "chinese": "\"Deji\" Meets Girl"
         },
-        "on_air": {
+        "onAir": {
             "spec": "播放日期：10月2日起／每週六凌晨／1時50分",
             "time": "2021-10-02T01:50:00+09:00"
         },
@@ -4008,19 +4012,19 @@
         "castings": [
             {
                 "character": "比嘉舞星",
-                "voice_actor": "安野希世乃"
+                "voiceActor": "安野希世乃"
             },
             {
                 "character": "すずきいちろう(？)",
-                "voice_actor": "小林竜之"
+                "voiceActor": "小林竜之"
             },
             {
                 "character": "比嘉海星",
-                "voice_actor": "三宅健太"
+                "voiceActor": "三宅健太"
             },
             {
                 "character": "比嘉テル子",
-                "voice_actor": "谷 育子"
+                "voiceActor": "谷 育子"
             }
         ],
         "staffs": [
@@ -4097,7 +4101,7 @@
             "japanese": "ビルディバイド -#000000（コードブラック）-",
             "chinese": "Build Divide: Code Black"
         },
-        "on_air": {
+        "onAir": {
             "spec": "播放日期：10月10日起／每週日凌晨／0時30分",
             "time": "2021-10-10T00:30:00+09:00"
         },
@@ -4106,23 +4110,23 @@
         "castings": [
             {
                 "character": "蔵部照人",
-                "voice_actor": "上村祐翔"
+                "voiceActor": "上村祐翔"
             },
             {
                 "character": "晩華桜良",
-                "voice_actor": "渡部紗弓"
+                "voiceActor": "渡部紗弓"
             },
             {
                 "character": "棟梨ひより",
-                "voice_actor": "古賀葵"
+                "voiceActor": "古賀葵"
             },
             {
                 "character": "キッカ",
-                "voice_actor": "芹澤優"
+                "voiceActor": "芹澤優"
             },
             {
                 "character": "円城直光",
-                "voice_actor": "田丸篤志"
+                "voiceActor": "田丸篤志"
             }
         ],
         "staffs": [
@@ -4161,11 +4165,11 @@
             },
             {
                 "url": "https://static.acgsecrets.hk/img/1a/1a5515c0564d92949cdda69fc6ddc6b7/518d2951098e565fb52720a924f98fea02b4f5251ac17c175dca84fb63e76967.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/1a/1a5515c0564d92949cdda69fc6ddc6b7/518d2951098e565fb52720a924f98fea02b4f5251ac17c175dca84fb63e76967-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/1a/1a5515c0564d92949cdda69fc6ddc6b7/518d2951098e565fb52720a924f98fea02b4f5251ac17c175dca84fb63e76967-300x300.jpg"
             },
             {
                 "url": "https://static.acgsecrets.hk/img/25/251947453d135e62ffb5619093b0157f/219af8c99060443cafbb30e0ea03e7922ada0e08e7e821cb1e44fd3ff4d809dd.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/25/251947453d135e62ffb5619093b0157f/219af8c99060443cafbb30e0ea03e7922ada0e08e7e821cb1e44fd3ff4d809dd-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/25/251947453d135e62ffb5619093b0157f/219af8c99060443cafbb30e0ea03e7922ada0e08e7e821cb1e44fd3ff4d809dd-300x300.jpg"
             }
         ]
     },
@@ -4175,7 +4179,7 @@
             "japanese": "カードファイト!! ヴァンガード overDress Season2",
             "chinese": "卡片戰鬥!! 先導者 overDress Season2"
         },
-        "on_air": {
+        "onAir": {
             "spec": "播放日期：10月5日起／每週二凌晨／0時0分",
             "time": "2021-10-05T00:00:00+09:00"
         },
@@ -4184,43 +4188,43 @@
         "castings": [
             {
                 "character": "近導 ユウユ",
-                "voice_actor": "蒼井 翔太"
+                "voiceActor": "蒼井 翔太"
             },
             {
                 "character": "桃山 ダンジ",
-                "voice_actor": "小野 友樹"
+                "voiceActor": "小野 友樹"
             },
             {
                 "character": "江端 トウヤ",
-                "voice_actor": "内田 雄馬"
+                "voiceActor": "内田 雄馬"
             },
             {
                 "character": "大倉 メグミ",
-                "voice_actor": "進藤 あまね"
+                "voiceActor": "進藤 あまね"
             },
             {
                 "character": "石亀 ザクサ",
-                "voice_actor": "伊藤 昌弘"
+                "voiceActor": "伊藤 昌弘"
             },
             {
                 "character": "瀬戸 トマリ",
-                "voice_actor": "遠野 ひかる"
+                "voiceActor": "遠野 ひかる"
             },
             {
                 "character": "伊勢木 マサノリ",
-                "voice_actor": "森嶋 秀太"
+                "voiceActor": "森嶋 秀太"
             },
             {
                 "character": "御薬袋 ミレイ",
-                "voice_actor": "中島 由貴"
+                "voiceActor": "中島 由貴"
             },
             {
                 "character": "惣川 ハルカ",
-                "voice_actor": "大地 葉"
+                "voiceActor": "大地 葉"
             },
             {
                 "character": "梶田 シノブ",
-                "voice_actor": "東内 マリ子"
+                "voiceActor": "東内 マリ子"
             }
         ],
         "staffs": [
@@ -4329,7 +4333,7 @@
             "japanese": "テスラノート",
             "chinese": "特斯拉筆記"
         },
-        "on_air": {
+        "onAir": {
             "spec": "播放日期：10月3日起／每週日／23時0分",
             "time": "2021-10-03T23:00:00+09:00"
         },
@@ -4338,39 +4342,39 @@
         "castings": [
             {
                 "character": "根来牡丹",
-                "voice_actor": "小原好美"
+                "voiceActor": "小原好美"
             },
             {
                 "character": "クルマ",
-                "voice_actor": "鈴木達央"
+                "voiceActor": "鈴木達央"
             },
             {
                 "character": "高松隆之助",
-                "voice_actor": "前野智昭"
+                "voiceActor": "前野智昭"
             },
             {
                 "character": "氷見恭平",
-                "voice_actor": "中井和哉"
+                "voiceActor": "中井和哉"
             },
             {
                 "character": "根来甚吾",
-                "voice_actor": "麦人"
+                "voiceActor": "麦人"
             },
             {
                 "character": "鳥海賢介",
-                "voice_actor": "木内秀信"
+                "voiceActor": "木内秀信"
             },
             {
                 "character": "ミッキー・ミラー",
-                "voice_actor": "諏訪部順一"
+                "voiceActor": "諏訪部順一"
             },
             {
                 "character": "オリバー・ソーントン",
-                "voice_actor": "神谷浩史"
+                "voiceActor": "神谷浩史"
             },
             {
                 "character": "リリー・スタイネム",
-                "voice_actor": "伊藤静"
+                "voiceActor": "伊藤静"
             }
         ],
         "staffs": [
@@ -4429,11 +4433,11 @@
             },
             {
                 "url": "https://static.acgsecrets.hk/img/32/32535698eb5045e06f7c4c9e7a51e80c/35d93fc47003f33e9bcfce893873244fb4c16f630bf07f90872019271ea3abf8.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/32/32535698eb5045e06f7c4c9e7a51e80c/35d93fc47003f33e9bcfce893873244fb4c16f630bf07f90872019271ea3abf8-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/32/32535698eb5045e06f7c4c9e7a51e80c/35d93fc47003f33e9bcfce893873244fb4c16f630bf07f90872019271ea3abf8-300x300.jpg"
             },
             {
                 "url": "https://static.acgsecrets.hk/img/cc/cc2c961a6ba4a0c5df8e4536422efc44/d447ccf566b83ce1d6740e873fabf6c4ae683c7d573b034f872b14369a1e619e.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/cc/cc2c961a6ba4a0c5df8e4536422efc44/d447ccf566b83ce1d6740e873fabf6c4ae683c7d573b034f872b14369a1e619e-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/cc/cc2c961a6ba4a0c5df8e4536422efc44/d447ccf566b83ce1d6740e873fabf6c4ae683c7d573b034f872b14369a1e619e-300x300.jpg"
             }
         ]
     },
@@ -4443,7 +4447,7 @@
             "japanese": "やくならマグカップも 二番窯",
             "chinese": "燒窯的話也要馬克杯 二號窯"
         },
-        "on_air": {
+        "onAir": {
             "spec": "播放日期：10月2日起／每週六凌晨／1時55分",
             "time": "2021-10-02T01:55:00+09:00"
         },
@@ -4452,55 +4456,55 @@
         "castings": [
             {
                 "character": "豊川姫乃",
-                "voice_actor": "田中美海"
+                "voiceActor": "田中美海"
             },
             {
                 "character": "久々梨三華",
-                "voice_actor": "芹澤優"
+                "voiceActor": "芹澤優"
             },
             {
                 "character": "成瀬直子",
-                "voice_actor": "若井友希"
+                "voiceActor": "若井友希"
             },
             {
                 "character": "青木十子",
-                "voice_actor": "本泉莉奈"
+                "voiceActor": "本泉莉奈"
             },
             {
                 "character": "土岐川幸恵",
-                "voice_actor": "真山亜子"
+                "voiceActor": "真山亜子"
             },
             {
                 "character": "豊川刻四郎",
-                "voice_actor": "石川界人"
+                "voiceActor": "石川界人"
             },
             {
                 "character": "小泉真美",
-                "voice_actor": "小川真奈"
+                "voiceActor": "小川真奈"
             },
             {
                 "character": "真土泥右衛門／松瀬理央",
-                "voice_actor": "内田彩"
+                "voiceActor": "内田彩"
             },
             {
                 "character": "青木十兵衛",
-                "voice_actor": "鈴木勝美"
+                "voiceActor": "鈴木勝美"
             },
             {
                 "character": "草野智也",
-                "voice_actor": "梅原裕一郎"
+                "voiceActor": "梅原裕一郎"
             },
             {
                 "character": "大沢由香里",
-                "voice_actor": "諏訪彩花"
+                "voiceActor": "諏訪彩花"
             },
             {
                 "character": "ヒメナ・バルデス",
-                "voice_actor": "天城サリー"
+                "voiceActor": "天城サリー"
             },
             {
                 "character": "土岐川姫菜",
-                "voice_actor": "小澤亜李"
+                "voiceActor": "小澤亜李"
             }
         ],
         "staffs": [
@@ -4543,11 +4547,11 @@
             },
             {
                 "url": "https://static.acgsecrets.hk/img/94/94cc48361d4e0d84d98b02f3f14f1ad8/f2a3b4b337880036222500ea7eb1cf8fc108b8383e92bf922eb27f617f82adb4.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/94/94cc48361d4e0d84d98b02f3f14f1ad8/f2a3b4b337880036222500ea7eb1cf8fc108b8383e92bf922eb27f617f82adb4-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/94/94cc48361d4e0d84d98b02f3f14f1ad8/f2a3b4b337880036222500ea7eb1cf8fc108b8383e92bf922eb27f617f82adb4-300x300.jpg"
             },
             {
                 "url": "https://static.acgsecrets.hk/img/bf/bf4b170cd0547771bd05105d46e11c74/14271af5c0adf9a25526588478a797328793c42499622f5fbbf90450c175d9b9.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/bf/bf4b170cd0547771bd05105d46e11c74/14271af5c0adf9a25526588478a797328793c42499622f5fbbf90450c175d9b9-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/bf/bf4b170cd0547771bd05105d46e11c74/14271af5c0adf9a25526588478a797328793c42499622f5fbbf90450c175d9b9-300x300.jpg"
             }
         ]
     },
@@ -4557,7 +4561,7 @@
             "japanese": "MUTEKING THE Dancing HERO",
             "chinese": "萬能戰士無比敵"
         },
-        "on_air": {
+        "onAir": {
             "spec": "播放日期：10月3日起／每週日凌晨／1時26分",
             "time": "2021-10-03T01:26:00+09:00"
         },
@@ -4566,71 +4570,71 @@
         "castings": [
             {
                 "character": "ムテキ",
-                "voice_actor": "真白 健太朗"
+                "voiceActor": "真白 健太朗"
             },
             {
                 "character": "DJ ",
-                "voice_actor": "江口 拓也"
+                "voiceActor": "江口 拓也"
             },
             {
                 "character": "セオ",
-                "voice_actor": "日野 聡"
+                "voiceActor": "日野 聡"
             },
             {
                 "character": "アイダさん",
-                "voice_actor": "高橋 李依"
+                "voiceActor": "高橋 李依"
             },
             {
                 "character": "アン",
-                "voice_actor": "米澤 円"
+                "voiceActor": "米澤 円"
             },
             {
                 "character": "ナオミ",
-                "voice_actor": "田所 あずさ"
+                "voiceActor": "田所 あずさ"
             },
             {
                 "character": "サラ",
-                "voice_actor": "愛河 里花子"
+                "voiceActor": "愛河 里花子"
             },
             {
                 "character": "ヴィヴィ",
-                "voice_actor": "興津 和幸"
+                "voiceActor": "興津 和幸"
             },
             {
                 "character": "ハル",
-                "voice_actor": "京雅"
+                "voiceActor": "京雅"
             },
             {
                 "character": "サマー",
-                "voice_actor": "木村 隼人"
+                "voiceActor": "木村 隼人"
             },
             {
                 "character": "アキ",
-                "voice_actor": "田中 美海"
+                "voiceActor": "田中 美海"
             },
             {
                 "character": "ウィンター",
-                "voice_actor": "西山 宏太朗"
+                "voiceActor": "西山 宏太朗"
             },
             {
                 "character": "ステキング",
-                "voice_actor": "KENN"
+                "voiceActor": "KENN"
             },
             {
                 "character": "マット",
-                "voice_actor": "青山 穣"
+                "voiceActor": "青山 穣"
             },
             {
                 "character": "トミー",
-                "voice_actor": "松山 鷹志"
+                "voiceActor": "松山 鷹志"
             },
             {
                 "character": "ジョージ",
-                "voice_actor": "羽多野 渉"
+                "voiceActor": "羽多野 渉"
             },
             {
                 "character": "オーウェン",
-                "voice_actor": "鈴村 健一"
+                "voiceActor": "鈴村 健一"
             }
         ],
         "staffs": [
@@ -4693,11 +4697,11 @@
             },
             {
                 "url": "https://static.acgsecrets.hk/img/35/35b10a52546c146ab550631159699d56/f82e305710196f3a9f84e51997c72b82cbed5d2710912d1ebedebed04dcb7e20.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/35/35b10a52546c146ab550631159699d56/f82e305710196f3a9f84e51997c72b82cbed5d2710912d1ebedebed04dcb7e20-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/35/35b10a52546c146ab550631159699d56/f82e305710196f3a9f84e51997c72b82cbed5d2710912d1ebedebed04dcb7e20-300x300.jpg"
             },
             {
                 "url": "https://static.acgsecrets.hk/img/5d/5dd949d4718bc4d2ecc8e098bda7f6dd/554363d7df1c3221d3ef4b2ccfe50d73b87e891af4623ed6b2bd18720775654d.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/5d/5dd949d4718bc4d2ecc8e098bda7f6dd/554363d7df1c3221d3ef4b2ccfe50d73b87e891af4623ed6b2bd18720775654d-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/5d/5dd949d4718bc4d2ecc8e098bda7f6dd/554363d7df1c3221d3ef4b2ccfe50d73b87e891af4623ed6b2bd18720775654d-300x300.jpg"
             }
         ]
     },
@@ -4707,7 +4711,7 @@
             "japanese": "マギアレコード 魔法少女まどか☆マギカ外伝 Final SEASON‐浅き夢の暁‐",
             "chinese": "魔法紀錄 魔法少女小圓外傳 最終季"
         },
-        "on_air": {
+        "onAir": {
             "spec": "時間未定"
         },
         "copyright": "",
@@ -4726,7 +4730,7 @@
             "japanese": "かぎなど",
             "chinese": "鍵等"
         },
-        "on_air": {
+        "onAir": {
             "spec": "播放日期：10月13日起／每週三凌晨／1時0分",
             "time": "2021-10-13T01:00:00+09:00"
         },
@@ -4735,147 +4739,147 @@
         "castings": [
             {
                 "character": "相沢祐一",
-                "voice_actor": "杉田智和"
+                "voiceActor": "杉田智和"
             },
             {
                 "character": "月宮あゆ",
-                "voice_actor": "堀江由衣"
+                "voiceActor": "堀江由衣"
             },
             {
                 "character": "水瀬名雪",
-                "voice_actor": "國府田マリ子"
+                "voiceActor": "國府田マリ子"
             },
             {
                 "character": "川澄 舞",
-                "voice_actor": "田村ゆかり"
+                "voiceActor": "田村ゆかり"
             },
             {
                 "character": "美坂 栞",
-                "voice_actor": "佐藤 朱"
+                "voiceActor": "佐藤 朱"
             },
             {
                 "character": "沢渡真琴",
-                "voice_actor": "飯塚雅弓"
+                "voiceActor": "飯塚雅弓"
             },
             {
                 "character": "国崎往人",
-                "voice_actor": "小野大輔"
+                "voiceActor": "小野大輔"
             },
             {
                 "character": "神尾観鈴",
-                "voice_actor": "真田アサミ"
+                "voiceActor": "真田アサミ"
             },
             {
                 "character": "霧島佳乃",
-                "voice_actor": "武田彩良"
+                "voiceActor": "武田彩良"
             },
             {
                 "character": "遠野美凪",
-                "voice_actor": "柚木涼香"
+                "voiceActor": "柚木涼香"
             },
             {
                 "character": "岡崎朋也",
-                "voice_actor": "中村悠一"
+                "voiceActor": "中村悠一"
             },
             {
                 "character": "古河 渚",
-                "voice_actor": "中原麻衣"
+                "voiceActor": "中原麻衣"
             },
             {
                 "character": "藤林 杏",
-                "voice_actor": "広橋 涼"
+                "voiceActor": "広橋 涼"
             },
             {
                 "character": "藤林 椋",
-                "voice_actor": "神田朱未"
+                "voiceActor": "神田朱未"
             },
             {
                 "character": "坂上智代",
-                "voice_actor": "桑島法子"
+                "voiceActor": "桑島法子"
             },
             {
                 "character": "伊吹風子",
-                "voice_actor": "野中 藍"
+                "voiceActor": "野中 藍"
             },
             {
                 "character": "一ノ瀬ことみ",
-                "voice_actor": "能登麻美子"
+                "voiceActor": "能登麻美子"
             },
             {
                 "character": "春原陽平",
-                "voice_actor": "阪口大助"
+                "voiceActor": "阪口大助"
             },
             {
                 "character": "直枝理樹",
-                "voice_actor": "堀江由衣"
+                "voiceActor": "堀江由衣"
             },
             {
                 "character": "棗 鈴",
-                "voice_actor": "たみやすともえ"
+                "voiceActor": "たみやすともえ"
             },
             {
                 "character": "棗 恭介",
-                "voice_actor": "緑川 光"
+                "voiceActor": "緑川 光"
             },
             {
                 "character": "井ノ原真人",
-                "voice_actor": "神奈延年"
+                "voiceActor": "神奈延年"
             },
             {
                 "character": "宮沢謙吾",
-                "voice_actor": "織田優成"
+                "voiceActor": "織田優成"
             },
             {
                 "character": "神北小毬",
-                "voice_actor": "やなせなつみ"
+                "voiceActor": "やなせなつみ"
             },
             {
                 "character": "三枝葉留佳",
-                "voice_actor": "すずきけいこ"
+                "voiceActor": "すずきけいこ"
             },
             {
                 "character": "能美クドリャフカ",
-                "voice_actor": "若林直美"
+                "voiceActor": "若林直美"
             },
             {
                 "character": "来ヶ谷唯湖",
-                "voice_actor": "田中涼子"
+                "voiceActor": "田中涼子"
             },
             {
                 "character": "西園美魚",
-                "voice_actor": "河原木志穂"
+                "voiceActor": "河原木志穂"
             },
             {
                 "character": "天王寺瑚太朗",
-                "voice_actor": "森田成一"
+                "voiceActor": "森田成一"
             },
             {
                 "character": "神戸小鳥",
-                "voice_actor": "斎藤千和"
+                "voiceActor": "斎藤千和"
             },
             {
                 "character": "鳳 ちはや",
-                "voice_actor": "篠宮沙弥"
+                "voiceActor": "篠宮沙弥"
             },
             {
                 "character": "千里朱音",
-                "voice_actor": "喜多村英梨"
+                "voiceActor": "喜多村英梨"
             },
             {
                 "character": "中津静流",
-                "voice_actor": "すずきけいこ"
+                "voiceActor": "すずきけいこ"
             },
             {
                 "character": "此花ルチア",
-                "voice_actor": "朝樹りさ"
+                "voiceActor": "朝樹りさ"
             },
             {
                 "character": "篝",
-                "voice_actor": "花澤香菜"
+                "voiceActor": "花澤香菜"
             },
             {
                 "character": "ほしのゆめみ",
-                "voice_actor": "すずきけいこ"
+                "voiceActor": "すずきけいこ"
             }
         ],
         "staffs": [
@@ -4942,11 +4946,11 @@
             },
             {
                 "url": "https://static.acgsecrets.hk/img/bb/bba4789fc003bb80dab612be3f4d47eb/5d7dd053a66b138042bd414ffbfed155b4c24c4c7891533cd9fe45be8274186b.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/bb/bba4789fc003bb80dab612be3f4d47eb/5d7dd053a66b138042bd414ffbfed155b4c24c4c7891533cd9fe45be8274186b-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/bb/bba4789fc003bb80dab612be3f4d47eb/5d7dd053a66b138042bd414ffbfed155b4c24c4c7891533cd9fe45be8274186b-300x300.jpg"
             },
             {
                 "url": "https://static.acgsecrets.hk/img/c4/c4c7ef67db3d902e6c31e179ca342ac7/dacf0dd8ecb21bafe0f46fa6eebaed89acb32284e695d56937b854b6f894b0f2.png",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/c4/c4c7ef67db3d902e6c31e179ca342ac7/dacf0dd8ecb21bafe0f46fa6eebaed89acb32284e695d56937b854b6f894b0f2-300x300.png"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/c4/c4c7ef67db3d902e6c31e179ca342ac7/dacf0dd8ecb21bafe0f46fa6eebaed89acb32284e695d56937b854b6f894b0f2-300x300.png"
             }
         ]
     },
@@ -4956,7 +4960,7 @@
             "japanese": "半妖の夜叉姫 弐の章",
             "chinese": "半妖的夜叉姬 第二季"
         },
-        "on_air": {
+        "onAir": {
             "spec": "播放日期：10月2日起／每週六／17時30分",
             "time": "2021-10-02T17:30:00+09:00"
         },
@@ -4965,47 +4969,47 @@
         "castings": [
             {
                 "character": "日暮とわ",
-                "voice_actor": "松本沙羅"
+                "voiceActor": "松本沙羅"
             },
             {
                 "character": "せつな",
-                "voice_actor": "小松未可子"
+                "voiceActor": "小松未可子"
             },
             {
                 "character": "もろは",
-                "voice_actor": "田所あずさ"
+                "voiceActor": "田所あずさ"
             },
             {
                 "character": "琥珀",
-                "voice_actor": "木村良平"
+                "voiceActor": "木村良平"
             },
             {
                 "character": "翡翠",
-                "voice_actor": "浦尾岳大"
+                "voiceActor": "浦尾岳大"
             },
             {
                 "character": "竹千代",
-                "voice_actor": "ファイルーズあい"
+                "voiceActor": "ファイルーズあい"
             },
             {
                 "character": "琥珀",
-                "voice_actor": "木村良平"
+                "voiceActor": "木村良平"
             },
             {
                 "character": "翡翠",
-                "voice_actor": "浦尾岳大"
+                "voiceActor": "浦尾岳大"
             },
             {
                 "character": "理玖",
-                "voice_actor": "福山 潤"
+                "voiceActor": "福山 潤"
             },
             {
                 "character": "是露",
-                "voice_actor": "坂本真綾"
+                "voiceActor": "坂本真綾"
             },
             {
                 "character": "麒麟丸",
-                "voice_actor": "細谷佳正"
+                "voiceActor": "細谷佳正"
             }
         ],
         "staffs": [
@@ -5060,11 +5064,11 @@
             },
             {
                 "url": "https://static.acgsecrets.hk/img/16/167ad1148f516ede169cdaf2753f5634/6920f29030ffa3a0402b1a7177511fe946d7f4698759e5e315fd1f0c3d96cf1f.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/16/167ad1148f516ede169cdaf2753f5634/6920f29030ffa3a0402b1a7177511fe946d7f4698759e5e315fd1f0c3d96cf1f-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/16/167ad1148f516ede169cdaf2753f5634/6920f29030ffa3a0402b1a7177511fe946d7f4698759e5e315fd1f0c3d96cf1f-300x300.jpg"
             },
             {
                 "url": "https://static.acgsecrets.hk/img/1a/1a4fa2acb03ae3f1920eb819d726ed38/0631965fac1dbb759be55d6da244e21812961714d4a9f8940695049bbc291461.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/1a/1a4fa2acb03ae3f1920eb819d726ed38/0631965fac1dbb759be55d6da244e21812961714d4a9f8940695049bbc291461-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/1a/1a4fa2acb03ae3f1920eb819d726ed38/0631965fac1dbb759be55d6da244e21812961714d4a9f8940695049bbc291461-300x300.jpg"
             }
         ]
     },
@@ -5074,7 +5078,7 @@
             "japanese": "デジモンゴーストゲーム",
             "chinese": "數碼暴龍 幽靈遊戲"
         },
-        "on_air": {
+        "onAir": {
             "spec": "播放日期：10月3日起／每週日／9時0分",
             "time": "2021-10-03T09:00:00+09:00"
         },
@@ -5083,27 +5087,27 @@
         "castings": [
             {
                 "character": "天ノ河 宙",
-                "voice_actor": "田村 睦心"
+                "voiceActor": "田村 睦心"
             },
             {
                 "character": "ガンマモン",
-                "voice_actor": "沢城 みゆき"
+                "voiceActor": "沢城 みゆき"
             },
             {
                 "character": "月夜野 瑠璃",
-                "voice_actor": "小林 ゆう"
+                "voiceActor": "小林 ゆう"
             },
             {
                 "character": "アンゴラモン",
-                "voice_actor": "中井 和哉"
+                "voiceActor": "中井 和哉"
             },
             {
                 "character": "東御手洗 清司郎",
-                "voice_actor": "石田 彰"
+                "voiceActor": "石田 彰"
             },
             {
                 "character": "ジェリーモン",
-                "voice_actor": "嶋村 侑"
+                "voiceActor": "嶋村 侑"
             }
         ],
         "staffs": [
@@ -5144,7 +5148,7 @@
             "japanese": "ワッチャプリマジ!",
             "chinese": "Waccha PriMagi!"
         },
-        "on_air": {
+        "onAir": {
             "spec": "播放日期：10月3日起／每週日／10時0分",
             "time": "2021-10-03T10:00:00+09:00"
         },
@@ -5153,27 +5157,27 @@
         "castings": [
             {
                 "character": "陽比野まつり",
-                "voice_actor": "廣瀬千夏"
+                "voiceActor": "廣瀬千夏"
             },
             {
                 "character": "みゃむ",
-                "voice_actor": "小池理子"
+                "voiceActor": "小池理子"
             },
             {
                 "character": "弥生ひな",
-                "voice_actor": "内田彩"
+                "voiceActor": "内田彩"
             },
             {
                 "character": "チムム",
-                "voice_actor": "引坂理絵"
+                "voiceActor": "引坂理絵"
             },
             {
                 "character": "心愛れもん",
-                "voice_actor": "鈴木杏奈"
+                "voiceActor": "鈴木杏奈"
             },
             {
                 "character": "きゃろん",
-                "voice_actor": "吉河順央"
+                "voiceActor": "吉河順央"
             }
         ],
         "staffs": [
@@ -5228,11 +5232,11 @@
             },
             {
                 "url": "https://static.acgsecrets.hk/img/39/391fb5713c33f86ebd92babbe9562e0a/5a627f7395438cc707ec92d37a2aebc4a6dbb397662f331371ca519b7e1465e2.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/39/391fb5713c33f86ebd92babbe9562e0a/5a627f7395438cc707ec92d37a2aebc4a6dbb397662f331371ca519b7e1465e2-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/39/391fb5713c33f86ebd92babbe9562e0a/5a627f7395438cc707ec92d37a2aebc4a6dbb397662f331371ca519b7e1465e2-300x300.jpg"
             },
             {
                 "url": "https://static.acgsecrets.hk/img/32/322ebb2c5d75df671ea57987a195b8b4/c04900aa885bc3c0a73a77136ce71504d9b023c5eb1f1dfd864a3e5b8727ce7b.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/32/322ebb2c5d75df671ea57987a195b8b4/c04900aa885bc3c0a73a77136ce71504d9b023c5eb1f1dfd864a3e5b8727ce7b-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/32/322ebb2c5d75df671ea57987a195b8b4/c04900aa885bc3c0a73a77136ce71504d9b023c5eb1f1dfd864a3e5b8727ce7b-300x300.jpg"
             }
         ]
     },
@@ -5242,7 +5246,7 @@
             "japanese": "ぐんまちゃん",
             "chinese": "群馬將"
         },
-        "on_air": {
+        "onAir": {
             "spec": "播放日期：10月3日起／每週日／8時0分",
             "time": "2021-10-03T08:00:00+09:00"
         },
@@ -5251,19 +5255,19 @@
         "castings": [
             {
                 "character": "ぐんまちゃん",
-                "voice_actor": "高橋花林"
+                "voiceActor": "高橋花林"
             },
             {
                 "character": "あおま",
-                "voice_actor": "内田彩"
+                "voiceActor": "内田彩"
             },
             {
                 "character": "みーみ",
-                "voice_actor": "小倉唯"
+                "voiceActor": "小倉唯"
             },
             {
                 "character": "ナレーション",
-                "voice_actor": "本田貴子"
+                "voiceActor": "本田貴子"
             }
         ],
         "staffs": [
@@ -5300,7 +5304,7 @@
             "japanese": "チキップダンサーズ",
             "chinese": "Chickip Dancers"
         },
-        "on_air": {
+        "onAir": {
             "spec": "播放日期：10月5日起／每週二／17時20分",
             "time": "2021-10-05T17:20:00+09:00"
         },
@@ -5309,23 +5313,23 @@
         "castings": [
             {
                 "character": "ほねチキン",
-                "voice_actor": "花江 夏樹"
+                "voiceActor": "花江 夏樹"
             },
             {
                 "character": "スキップガエル先生",
-                "voice_actor": "花江 夏樹"
+                "voiceActor": "花江 夏樹"
             },
             {
                 "character": "りんごあめ",
-                "voice_actor": "石川 由依"
+                "voiceActor": "石川 由依"
             },
             {
                 "character": "だんご",
-                "voice_actor": "石川 由依"
+                "voiceActor": "石川 由依"
             },
             {
                 "character": "ナレーション",
-                "voice_actor": "弓木 英梨乃"
+                "voiceActor": "弓木 英梨乃"
             }
         ],
         "staffs": [
@@ -5362,7 +5366,7 @@
             "japanese": "魔王イブロギアに身を捧げよ",
             "chinese": "獻身給魔王伊伏洛基亞吧"
         },
-        "on_air": {
+        "onAir": {
             "spec": "播放日期：10月2日起／每週六凌晨／1時0分",
             "time": "2021-10-02T01:00:00+09:00"
         },
@@ -5371,19 +5375,19 @@
         "castings": [
             {
                 "character": "イブロギア",
-                "voice_actor": "堀江瞬"
+                "voiceActor": "堀江瞬"
             },
             {
                 "character": "牛頭利晃",
-                "voice_actor": "佐藤拓也"
+                "voiceActor": "佐藤拓也"
             },
             {
                 "character": "ティシア",
-                "voice_actor": "生天目仁美"
+                "voiceActor": "生天目仁美"
             },
             {
                 "character": "マキディー",
-                "voice_actor": "安元洋貴"
+                "voiceActor": "安元洋貴"
             }
         ],
         "staffs": [
@@ -5452,7 +5456,7 @@
             "japanese": "しょうたいむ！～歌のお姉さんだってしたい",
             "chinese": "Showtime！姊姊帶你一起動"
         },
-        "on_air": {
+        "onAir": {
             "spec": "播放日期：10月4日起／每週一凌晨／1時0分",
             "time": "2021-10-04T01:00:00+09:00"
         },
@@ -5461,23 +5465,23 @@
         "castings": [
             {
                 "character": "高崎三奈美",
-                "voice_actor": "北見六花"
+                "voiceActor": "北見六花"
             },
             {
                 "character": "藤本翔二",
-                "voice_actor": "八神仙"
+                "voiceActor": "八神仙"
             },
             {
                 "character": "藤本カナ",
-                "voice_actor": "暁あいり"
+                "voiceActor": "暁あいり"
             },
             {
                 "character": "かずひろお兄さん",
-                "voice_actor": "白上奏"
+                "voiceActor": "白上奏"
             },
             {
                 "character": "パオタン",
-                "voice_actor": "櫻井ありす"
+                "voiceActor": "櫻井ありす"
             }
         ],
         "staffs": [
@@ -5550,7 +5554,7 @@
             "japanese": "ジャヒー様はくじけない！",
             "chinese": "賈希大人不氣餒！"
         },
-        "on_air": {
+        "onAir": {
             "spec": "跨季繼續播放：每週日凌晨／2時0分",
             "time": "2021-10-01T02:00:00+09:00"
         },
@@ -5559,31 +5563,31 @@
         "castings": [
             {
                 "character": "ジャヒー様",
-                "voice_actor": "大空直美"
+                "voiceActor": "大空直美"
             },
             {
                 "character": "店長",
-                "voice_actor": "茅野愛衣"
+                "voiceActor": "茅野愛衣"
             },
             {
                 "character": "大家",
-                "voice_actor": "日笠陽子"
+                "voiceActor": "日笠陽子"
             },
             {
                 "character": "ドゥルジ",
-                "voice_actor": "花澤香菜"
+                "voiceActor": "花澤香菜"
             },
             {
                 "character": "サルワ",
-                "voice_actor": "小松未可子"
+                "voiceActor": "小松未可子"
             },
             {
                 "character": "魔法少女",
-                "voice_actor": "上坂すみれ"
+                "voiceActor": "上坂すみれ"
             },
             {
                 "character": "こころ",
-                "voice_actor": "小倉 唯"
+                "voiceActor": "小倉 唯"
             }
         ],
         "staffs": [
@@ -5618,11 +5622,11 @@
             },
             {
                 "url": "https://static.acgsecrets.hk/img/2a/2aa0f9cf07d448d582dd03988c557585/9d27da98345e6ec48c0d6d8afea110ee72f238f7593dedfa527dda6490453240.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/2a/2aa0f9cf07d448d582dd03988c557585/9d27da98345e6ec48c0d6d8afea110ee72f238f7593dedfa527dda6490453240-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/2a/2aa0f9cf07d448d582dd03988c557585/9d27da98345e6ec48c0d6d8afea110ee72f238f7593dedfa527dda6490453240-300x300.jpg"
             },
             {
                 "url": "https://static.acgsecrets.hk/img/d6/d6f42c7538ef2bb4f19913617191c30a/5c18f2a3918952c3dce72add53980646cafe505c4e0263fb436d2ea02eb1fb84.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/d6/d6f42c7538ef2bb4f19913617191c30a/5c18f2a3918952c3dce72add53980646cafe505c4e0263fb436d2ea02eb1fb84-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/d6/d6f42c7538ef2bb4f19913617191c30a/5c18f2a3918952c3dce72add53980646cafe505c4e0263fb436d2ea02eb1fb84-300x300.jpg"
             }
         ]
     },
@@ -5632,7 +5636,7 @@
             "japanese": "魔入りました！入間くん 第2シリーズ",
             "chinese": "入間同學入魔了！ 第2季"
         },
-        "on_air": {
+        "onAir": {
             "spec": "跨季繼續播放：每週六／17時35分",
             "time": "2021-10-01T17:35:00+09:00"
         },
@@ -5641,15 +5645,15 @@
         "castings": [
             {
                 "character": "鈴木入間",
-                "voice_actor": "村瀬歩"
+                "voiceActor": "村瀬歩"
             },
             {
                 "character": "アスモデウス・アリス",
-                "voice_actor": "木村良平"
+                "voiceActor": "木村良平"
             },
             {
                 "character": "ウァラク・クララ",
-                "voice_actor": "朝井彩加"
+                "voiceActor": "朝井彩加"
             }
         ],
         "staffs": [
@@ -5684,11 +5688,11 @@
             },
             {
                 "url": "https://static.acgsecrets.hk/img/6f/6fc014fa4e58113dd152bade8060cbcb/f1a9388c9a9dc5ef8983438aa7441e28d77fbe128827f93a54d48616f001941a.png",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/6f/6fc014fa4e58113dd152bade8060cbcb/f1a9388c9a9dc5ef8983438aa7441e28d77fbe128827f93a54d48616f001941a-300x300.png"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/6f/6fc014fa4e58113dd152bade8060cbcb/f1a9388c9a9dc5ef8983438aa7441e28d77fbe128827f93a54d48616f001941a-300x300.png"
             },
             {
                 "url": "https://static.acgsecrets.hk/img/2c/2c1eb2fcb8a79e445fc2c8e99a39cfd9/2a69f08ad722b2b1f6593bcd960b21e552bc1a601d8e9b786388a0aa7e34e4ea.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/2c/2c1eb2fcb8a79e445fc2c8e99a39cfd9/2a69f08ad722b2b1f6593bcd960b21e552bc1a601d8e9b786388a0aa7e34e4ea-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/2c/2c1eb2fcb8a79e445fc2c8e99a39cfd9/2a69f08ad722b2b1f6593bcd960b21e552bc1a601d8e9b786388a0aa7e34e4ea-300x300.jpg"
             }
         ]
     },
@@ -5698,7 +5702,7 @@
             "japanese": "白い砂のアクアトープ",
             "chinese": "白沙的Aquatope"
         },
-        "on_air": {
+        "onAir": {
             "spec": "跨季繼續播放：每週五凌晨／0時0分",
             "time": "2021-10-01T00:00:00+09:00"
         },
@@ -5707,31 +5711,31 @@
         "castings": [
             {
                 "character": "海咲野 くくる",
-                "voice_actor": "伊藤美来"
+                "voiceActor": "伊藤美来"
             },
             {
                 "character": "宮沢 風花",
-                "voice_actor": "逢田梨香子"
+                "voiceActor": "逢田梨香子"
             },
             {
                 "character": "照屋 月美",
-                "voice_actor": "和氣あず未"
+                "voiceActor": "和氣あず未"
             },
             {
                 "character": "久高 夏凛",
-                "voice_actor": "Lynn"
+                "voiceActor": "Lynn"
             },
             {
                 "character": "仲村 櫂",
-                "voice_actor": "土屋神葉"
+                "voiceActor": "土屋神葉"
             },
             {
                 "character": "屋嘉間志空也",
-                "voice_actor": "阿座上洋平"
+                "voiceActor": "阿座上洋平"
             },
             {
                 "character": "おじい",
-                "voice_actor": "家中 宏"
+                "voiceActor": "家中 宏"
             }
         ],
         "staffs": [
@@ -5814,19 +5818,19 @@
             },
             {
                 "url": "https://static.acgsecrets.hk/img/17/1709c070820ea04f63eac57681597538/d518f64fc834420566c0507f66920fab244a1d81b11d3383fb20a470de586d7a.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/17/1709c070820ea04f63eac57681597538/d518f64fc834420566c0507f66920fab244a1d81b11d3383fb20a470de586d7a-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/17/1709c070820ea04f63eac57681597538/d518f64fc834420566c0507f66920fab244a1d81b11d3383fb20a470de586d7a-300x300.jpg"
             },
             {
                 "url": "https://static.acgsecrets.hk/img/69/693eece6368f5998162e70cf3e9813b9/bd7342f7cd140e2afa8cbf1f70447ad32445765a922d8dc205e7543fad113767.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/69/693eece6368f5998162e70cf3e9813b9/bd7342f7cd140e2afa8cbf1f70447ad32445765a922d8dc205e7543fad113767-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/69/693eece6368f5998162e70cf3e9813b9/bd7342f7cd140e2afa8cbf1f70447ad32445765a922d8dc205e7543fad113767-300x300.jpg"
             },
             {
                 "url": "https://static.acgsecrets.hk/img/0c/0c878071950cb0562ad9db04b5c09bd9/68b65fe65c59ccf39875fdc53298a6ee1b1c6693b62b9057c6edc2b1f538d60c.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/0c/0c878071950cb0562ad9db04b5c09bd9/68b65fe65c59ccf39875fdc53298a6ee1b1c6693b62b9057c6edc2b1f538d60c-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/0c/0c878071950cb0562ad9db04b5c09bd9/68b65fe65c59ccf39875fdc53298a6ee1b1c6693b62b9057c6edc2b1f538d60c-300x300.jpg"
             },
             {
                 "url": "https://static.acgsecrets.hk/img/2a/2a65f1fffbb8a622bcb20ab4ebb6aa10/faf8c81efd3a63707ce661b2b7b701da0b375b5134df6c3de57d41e3e4719167.jpg",
-                "thumbnail_url": "https://static.acgsecrets.hk/img/2a/2a65f1fffbb8a622bcb20ab4ebb6aa10/faf8c81efd3a63707ce661b2b7b701da0b375b5134df6c3de57d41e3e4719167-300x300.jpg"
+                "thumbnailUrl": "https://static.acgsecrets.hk/img/2a/2a65f1fffbb8a622bcb20ab4ebb6aa10/faf8c81efd3a63707ce661b2b7b701da0b375b5134df6c3de57d41e3e4719167-300x300.jpg"
             }
         ]
     }
