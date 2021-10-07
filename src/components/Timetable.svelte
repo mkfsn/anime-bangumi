@@ -20,6 +20,7 @@
 
 <style>
     .timetable {
+        grid-area: timetable;
         height: 100vh;
         display: flex;
         border-left: 1px solid #dfdfdf;
