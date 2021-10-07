@@ -5,7 +5,7 @@
     export let anime: Anime;
 
     const addToWatchlist = () => {
-        $watchlist = [...$watchlist, anime];
+        $watchlist = [... new Set([...$watchlist, anime])];
     }
 </script>
 
