@@ -11,7 +11,7 @@
 
 <div class="wrapper">
     <img class="plus" src="https://img.icons8.com/color/24/000000/plus--v1.png" alt="icon" on:click={addToWatchlist}/>
-    <div class="card">
+    <div class="content">
         <div class="cover">
             <img src={anime?.images[0].getThumbnailUrl()} alt={anime?.name?.japanese} loading="lazy" />
         </div>
@@ -35,7 +35,7 @@
         opacity: 0.7;
     }
 
-    .card {
+    .content {
         position: relative;
         display: flex;
         justify-content: space-between;
@@ -45,7 +45,7 @@
         gap: 5px;
     }
 
-    .card:hover > .cover {
+    .content:hover > .cover {
         opacity: .7;
     }
 

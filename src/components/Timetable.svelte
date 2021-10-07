@@ -1,7 +1,8 @@
 <script lang="ts">
-    import { watchlist } from '../watchlist.js';
-    import { onDestroy } from 'svelte';
+    import {watchlist} from '../watchlist.js';
+    import {onDestroy} from 'svelte';
     import {Anime} from "../anime";
+    import AnimeCard from "./AnimeCard.svelte";
 
     let animeGroups = [
         [], [], [], [], [], [], []
@@ -23,6 +24,7 @@
                 let onAirJST = new Date(dateStr);
                 onAirJST.setHours(onAirJST.getHours() - 6); // 30-hour clock
                 animeGroups[onAirJST.getDay()].push(anime);
+                // TODO: sort animeGroups[onAirJST.getDay()]
             }
         })
     });
@@ -39,7 +41,7 @@
                 <span>{nameOfDay(weekday)}</span>
             </div>
             {#each animeList as anime}
-                <p>{anime.name.chinese}</p>
+                <AnimeCard anime={anime}/>
             {/each}
         </div>
     {/each}
