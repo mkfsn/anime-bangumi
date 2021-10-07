@@ -1,6 +1,8 @@
 <script lang="ts">
-    import { fade } from 'svelte/transition';
-    import { onMount } from 'svelte';
+    import {fade} from 'svelte/transition';
+    import {onMount} from 'svelte';
+    import AnimeGroups from "./AnimeGroups.svelte";
+    import {Anime} from "../anime";
 
     let isOpened = false;
 
@@ -13,6 +15,15 @@
         delay: 0,
         duration: 100
     }
+
+    let animeList = [];
+
+    onMount(async () => {
+        const res = await fetch(`/assets/2021/10.json`);
+        for (let result of await res.json()) {
+            animeList.push(new Anime(result))
+        }
+    });
 </script>
 
 <nav class:open={isOpened}>
@@ -24,11 +35,11 @@
         {/if}
     </button>
 
-    <ul>
-        <li>{#if isOpened}<span in:fade="{fadeIn}" out:fade="{fadeOut}">Inbox</span>{/if}</li>
-        <li>{#if isOpened}<span in:fade="{fadeIn}" out:fade="{fadeOut}">Starred</span>{/if}</li>
-        <li>{#if isOpened}<span in:fade="{fadeIn}" out:fade="{fadeOut}">Trashed</span>{/if}</li>
-    </ul>
+    {#if isOpened}
+        <div in:fade={fadeIn} out:fade={fadeOut}>
+            <AnimeGroups animeList={animeList} />
+        </div>
+    {/if}
 </nav>
 
 <style>
