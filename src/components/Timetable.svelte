@@ -1,19 +1,46 @@
 <script lang="ts">
-    let weekDays = [0, 1, 2, 3, 4, 5, 6];
+    import { watchlist } from '../watchlist.js';
+    import { onDestroy } from 'svelte';
+    import {Anime} from "../anime";
+
+    let animeGroups = [
+        [], [], [], [], [], [], []
+    ]
 
     function nameOfDay(v: number): string {
         const days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
         console.assert(v >= 0 && v <= days.length);
         return days[v];
     }
+
+    const unsubscribe = watchlist.subscribe(animeList => {
+        animeGroups = [[], [], [], [], [], [], []]
+
+        animeList.forEach((anime: Anime) => {
+            const onAirTime = anime.onAir.time;
+            if (onAirTime) {
+                let dateStr = onAirTime.toLocaleString('ja-JP', {timeZone: 'Asia/Tokyo'});
+                let onAirJST = new Date(dateStr);
+                onAirJST.setHours(onAirJST.getHours() - 6); // 30-hour clock
+                animeGroups[onAirJST.getDay()].push(anime);
+            }
+        })
+    });
+
+    onDestroy(() => {
+        unsubscribe();
+    });
 </script>
 
 <div class="timetable">
-    {#each weekDays as weekday}
+    {#each animeGroups as animeList, weekday}
         <div class="weekday">
             <div class="header">
                 <span>{nameOfDay(weekday)}</span>
             </div>
+            {#each animeList as anime}
+                <p>{anime.name.chinese}</p>
+            {/each}
         </div>
     {/each}
 </div>

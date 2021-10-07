@@ -1,11 +1,16 @@
 <script lang="ts">
     import { Anime } from "../anime";
+    import { watchlist } from '../watchlist.js';
 
     export let anime: Anime;
+
+    const addToWatchlist = () => {
+        $watchlist = [...$watchlist, anime];
+    }
 </script>
 
 <div class="wrapper">
-    <img class="plus" src="https://img.icons8.com/color/24/000000/plus--v1.png" alt="icon"/>
+    <img class="plus" src="https://img.icons8.com/color/24/000000/plus--v1.png" alt="icon" on:click={addToWatchlist}/>
     <div class="card">
         <div class="cover">
             <img src={anime?.images[0].getThumbnailUrl()} alt={anime?.name?.japanese} loading="lazy" />
