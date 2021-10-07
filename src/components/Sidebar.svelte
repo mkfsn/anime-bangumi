@@ -1,7 +1,7 @@
 <script lang="ts">
     import {fade} from 'svelte/transition';
     import {onMount} from 'svelte';
-    import AnimeGroups from "./AnimeGroups.svelte";
+    import AnimeNavbar from "./AnimeNavbar.svelte";
     import {Anime} from "../anime";
 
     let isOpened = false;
@@ -37,7 +37,7 @@
 
     {#if isOpened}
         <div in:fade={fadeIn} out:fade={fadeOut}>
-            <AnimeGroups animeList={animeList} />
+            <AnimeNavbar animeList={animeList} />
         </div>
     {/if}
 </nav>
