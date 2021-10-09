@@ -56,7 +56,7 @@
 
 <style>
     .wrapper {
-        height: calc(100vh - 17px);
+        height: calc(100vh - 64px);
         overflow-y: scroll;
         -ms-overflow-style: none;  /* IE and Edge */
         scrollbar-width: none; /* Firefox */

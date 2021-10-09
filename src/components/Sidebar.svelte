@@ -40,7 +40,7 @@
 <style>
     nav {
         grid-area: nav;
-        height: 100vh;
+        height: calc(100vh - 64px);
         background-color: #324754;
         color: #A2B7C4;
         transition: ease-out 200ms;

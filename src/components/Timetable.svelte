@@ -81,7 +81,7 @@
 <style>
     .timetable {
         grid-area: timetable;
-        height: 100vh;
+        height: calc(100vh - 64px);
         display: flex;
         border-left: 1px solid #dfdfdf;
     }
