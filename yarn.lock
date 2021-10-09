@@ -819,7 +819,7 @@
     "@smui/ripple" "^5.0.0-beta.7"
     svelte2tsx "^0.4.6"
 
-"@smui/dialog@5.0.0-beta.7":
+"@smui/dialog@5.0.0-beta.7", "@smui/dialog@^5.0.0-beta.7":
   version "5.0.0-beta.7"
   resolved "https://registry.yarnpkg.com/@smui/dialog/-/dialog-5.0.0-beta.7.tgz#1af318edab2ac1afa94a7beac0eac7ea516f25f6"
   integrity sha512-wzj6cCnKia8VPzOx+rX03/GglTgVrrKclLRJvLfXUI2ERGy/7Dnc4gQ+EkYki0EUNrJW5aTk0p3zlFGxpGaeZw==
