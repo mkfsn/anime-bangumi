@@ -71,9 +71,11 @@
                     <p>{dayOfMonth(weekday)}</p>
                 </div>
             </div>
-            {#each animeList as anime}
-                <AnimeCard anime={anime}/>
-            {/each}
+            <div class="body">
+                {#each animeList as anime}
+                    <AnimeCard anime={anime}/>
+                {/each}
+            </div>
         </div>
     {/each}
 </div>
@@ -90,6 +92,8 @@
         flex: 1 1;
         min-width: 0;
         border-right: 1px solid #dfdfdf;
+        display: flex;
+        flex-direction: column;
     }
 
     .header {
@@ -98,6 +102,12 @@
         padding-top: 3px;
         padding-bottom: 3px;
         border-bottom: 1px solid #dfdfdf;
+    }
+
+    .body {
+        flex-grow: 1;
+        overflow: auto;
+        min-height: 0; /* for Firefox */
     }
 
     .date > p {

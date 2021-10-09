@@ -51,7 +51,7 @@
         opacity: 0.7;
     }
 
-    :global(.mdc-typography--headline6) {
+    .card-container :global(.mdc-typography--headline6) {
         color: #fff;
         position: absolute;
         bottom: 8px;
@@ -59,7 +59,7 @@
         margin: 0;
     }
 
-    :global(.media-content) {
+    .card-container :global(.media-content) {
         background-color: rgba(0, 0, 0, 0.55);
     }
 </style>

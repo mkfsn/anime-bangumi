@@ -40,7 +40,7 @@
         font-size: 1rem;
     }
 
-    :global(.on-air-spec) {
+    .card-container :global(.on-air-spec) {
         font-size: .5rem;
         padding: .5em !important;
     }
