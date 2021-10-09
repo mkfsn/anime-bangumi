@@ -41,13 +41,17 @@ class AnimeImage {
 
 class Anime {
     id: string;
+    year?: number;
+    month?: number;
     name: AnimeName;
     onAir: AnimeOnAir;
     images: AnimeImage[];
     story: string;
 
-    constructor(init: Anime) {
+    constructor(init: Anime, year?: number, month?: number) {
         this.id = init.id;
+        this.year = year;
+        this.month = month;
         this.name = init.name !== undefined ? new AnimeName(init.name) : undefined;
         this.onAir = init.onAir !== undefined ? new AnimeOnAir(init.onAir) : undefined;
         this.images = init.images !== undefined ? init.images.map(v => new AnimeImage(v)) : undefined;

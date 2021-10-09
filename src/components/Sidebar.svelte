@@ -19,9 +19,12 @@
     let animeList = [];
 
     onMount(async () => {
-        const res = await fetch(`/assets/2021/10.json`);
+        const year = 2021,
+              month = 10;
+
+        const res = await fetch(`/assets/${year}/${month}.json`);
         for (let result of await res.json()) {
-            animeList.push(new Anime(result))
+            animeList.push(new Anime(result, year, month))
         }
     });
 </script>
