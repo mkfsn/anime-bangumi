@@ -1,6 +1,10 @@
 <script lang="ts">
     import { Anime } from "../anime";
     import { watchlist } from '../watchlist.js';
+    import Card, {
+        Media,
+        MediaContent,
+    } from '@smui/card';
 
     export let anime: Anime;
 
@@ -10,12 +14,17 @@
 </script>
 
 <div class="wrapper">
-    <img class="plus" src="https://img.icons8.com/color/24/000000/plus--v1.png" alt="icon" on:click={addToWatchlist}/>
-    <div class="content">
-        <div class="cover">
-            <img src={anime?.images[0].getThumbnailUrl()} alt={anime?.name?.japanese} loading="lazy" />
-        </div>
-        <p class="title">{anime?.name?.chinese}</p>
+    <div class="card-container">
+        <img class="plus" src="https://img.icons8.com/color/24/000000/plus--v1.png" alt="icon" on:click={addToWatchlist}/>
+        <Card>
+            <Media class="card-media-16x9" aspectRatio="16x9" style="background-image: url({anime.images[0].getThumbnailUrl()});">
+                <MediaContent class="media-content">
+                    <h5 class="mdc-typography--headline6">
+                        {anime.name.chinese}
+                    </h5>
+                </MediaContent>
+            </Media>
+        </Card>
     </div>
 </div>
 
@@ -24,9 +33,16 @@
         position: relative;
     }
 
+    .card-container {
+        margin-left: 8px;
+        margin-right: 8px;
+        margin-bottom: 10px;
+    }
+
     .plus {
         position: absolute;
-        right: 0;
+        right: -2px;
+        top: -10px;
         z-index: 999;
     }
 
@@ -35,32 +51,15 @@
         opacity: 0.7;
     }
 
-    .content {
-        position: relative;
-        display: flex;
-        justify-content: space-between;
-        flex: 1 1;
-        width: 200px;
-        align-items: center;
-        gap: 5px;
-    }
-
-    .content:hover > .cover {
-        opacity: .7;
-    }
-
-    .cover {
-        flex: 1 1 0;
-    }
-
-    .cover > img {
-        object-fit: cover;
-        width: 100px;
-    }
-
-    .title {
-        flex: 1 1 0;
+    :global(.mdc-typography--headline6) {
+        color: #fff;
+        position: absolute;
+        bottom: 8px;
+        left: 8px;
         margin: 0;
-        font-size: .9rem;
+    }
+
+    :global(.media-content) {
+        background-color: rgba(0, 0, 0, 0.55);
     }
 </style>
