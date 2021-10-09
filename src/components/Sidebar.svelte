@@ -4,7 +4,7 @@
     import AnimeNavbar from "./AnimeNavbar.svelte";
     import {Anime} from "../anime";
 
-    let isOpened = false;
+    export let open;
 
     const fadeIn = {
         delay: 100,
@@ -26,16 +26,8 @@
     });
 </script>
 
-<nav class:open={isOpened}>
-    <button on:click={() => isOpened = !isOpened}>
-        {#if isOpened}
-            Close
-        {:else}
-            Open
-        {/if}
-    </button>
-
-    {#if isOpened}
+<nav class:open={open}>
+    {#if open}
         <div in:fade={fadeIn} out:fade={fadeOut}>
             <AnimeNavbar animeList={animeList} />
         </div>
@@ -49,7 +41,7 @@
         background-color: #324754;
         color: #A2B7C4;
         transition: ease-out 200ms;
-        width: 60px;
+        width: 0;
         overflow: hidden;
     }
 
