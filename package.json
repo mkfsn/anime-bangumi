@@ -25,6 +25,7 @@
     "typescript": "4.4.3"
   },
   "dependencies": {
+    "@smui/card": "^5.0.0-beta.7",
     "@smui/icon-button": "5.0.0-beta.7",
     "@smui/top-app-bar": "5.0.0-beta.7",
     "sirv-cli": "1.0.14",

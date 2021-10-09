@@ -57,6 +57,7 @@
 
     .weekday {
         flex: 1 1;
+        min-width: 0;
         border-right: 1px solid #dfdfdf;
     }
 

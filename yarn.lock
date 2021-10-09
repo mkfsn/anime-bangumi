@@ -750,7 +750,7 @@
     "@smui/ripple" "^5.0.0-beta.7"
     svelte2tsx "^0.4.6"
 
-"@smui/card@5.0.0-beta.7":
+"@smui/card@5.0.0-beta.7", "@smui/card@^5.0.0-beta.7":
   version "5.0.0-beta.7"
   resolved "https://registry.yarnpkg.com/@smui/card/-/card-5.0.0-beta.7.tgz#c6844dd6fbe40014df964aa5a93df328e0c3d312"
   integrity sha512-0DHGDmpgGXGXcZgg8wYfAxzPDCacEs4I5im0S/lR2M2RXaECzQfFtTZ4suaf01T4NDsvcGEPpmEI1cT9+rlbBw==
@@ -1914,7 +1914,7 @@ svelte-check@2.2.6:
     svelte-preprocess "^4.0.0"
     typescript "*"
 
-svelte-material-ui@^5.0.0-beta.7:
+svelte-material-ui@5.0.0-beta.7:
   version "5.0.0-beta.7"
   resolved "https://registry.yarnpkg.com/svelte-material-ui/-/svelte-material-ui-5.0.0-beta.7.tgz#63e66a6152f488f41db4cc58db29f45cbe551b00"
   integrity sha512-Lmhc5sLlrGuj4AwpsytA9SuFvv05yBFk4ChhJ60k45WDPvO3qbAiP8gcHuNnc9Owvha/LZyBnUVWb9vX9wkXrQ==
