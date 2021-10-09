@@ -35,7 +35,7 @@
         for (let anime of animeList) {
             if (!animeGroupsByDate[dateOfAnime(anime.onAir.time)]) {
                 animeGroupsByDate[dateOfAnime(anime.onAir.time)] = [];
-            };
+            }
             animeGroupsByDate[dateOfAnime(anime.onAir.time)].push(anime);
         }
 

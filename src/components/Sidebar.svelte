@@ -1,8 +1,6 @@
 <script lang="ts">
     import {fade} from 'svelte/transition';
-    import {onMount} from 'svelte';
     import AnimeNavbar from "./AnimeNavbar.svelte";
-    import {Anime} from "../anime";
 
     export let open;
 
@@ -16,17 +14,7 @@
         duration: 100
     }
 
-    let animeList = [];
-
-    onMount(async () => {
-        const year = 2021,
-              month = 10;
-
-        const res = await fetch(`/assets/${year}/${month}.json`);
-        for (let result of await res.json()) {
-            animeList.push(new Anime(result, year, month))
-        }
-    });
+    export let animeList = [];
 </script>
 
 <nav class:open={open}>
