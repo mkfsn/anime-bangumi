@@ -15,11 +15,11 @@
         <Card>
             <PrimaryAction ripple={false}>
                 <Media class="card-media-16x9" aspectRatio="16x9" style="background-image: url({anime.images[0].getThumbnailUrl()});">
-                    <MediaContent>
-                        <div style="color: #fff; position: absolute; bottom: 16px; left: 16px;">
-                            <h2 class="mdc-typography--headline6" style="margin: 0;">
+                    <MediaContent class="media-content">
+                        <div class="content-header">
+                            <h4 class="mdc-typography--headline6" style="margin: 0;">
                                 {anime.name.chinese}
-                            </h2>
+                            </h4>
                         </div>
                     </MediaContent>
                 </Media>
@@ -36,12 +36,20 @@
         margin: 2px;
     }
 
-    * {
-        font-size: 1rem;
-    }
-
     .card-container :global(.on-air-spec) {
         font-size: .5rem;
         padding: .5em !important;
+    }
+
+    .card-container :global(.media-content) {
+        background-color: rgba(0, 0, 0, .55);
+    }
+
+    .content-header {
+        color: #fff;
+        position: absolute;
+        margin-left: 1em;
+        margin-right: 1em;
+        bottom: 1em;
     }
 </style>
