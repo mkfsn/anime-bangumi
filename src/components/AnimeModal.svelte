@@ -3,7 +3,8 @@
     import Dialog, { Header, Title, Content, Actions } from '@smui/dialog';
     import IconButton from '@smui/icon-button';
     import Button, { Label } from '@smui/button';
-    import {watchlist} from "../stores/watchlist";
+    import { watchlist } from "../stores/watchlist";
+    import { storeAnimeListToUrl } from "../utils/url";
 
     export let anime: Anime;
     export let open: boolean;
@@ -24,20 +25,7 @@
 
         $watchlist = [... animeSet];
 
-        const animeGroups = {}
-        $watchlist.forEach(anime => {
-            const yearMonth = `${anime.year}${anime.month}`;
-            if (! (yearMonth in animeGroups)) {
-                animeGroups[yearMonth] = []
-            }
-            animeGroups[yearMonth].push(anime.id);
-        })
-        let newHash = "/v1";
-        for (let yearMonth in animeGroups) {
-            const animeIDs = animeGroups[yearMonth].join(",");
-            newHash += `/${yearMonth}=${animeIDs}`;
-        }
-        window.location.hash = newHash
+        storeAnimeListToUrl($watchlist);
     }
 </script>
 

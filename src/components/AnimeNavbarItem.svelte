@@ -1,30 +1,15 @@
 <script lang="ts">
     import { Anime } from "../models/anime";
     import { watchlist } from '../stores/watchlist';
-    import Card, {
-        Media,
-        MediaContent,
-    } from '@smui/card';
+    import Card, { Media, MediaContent } from '@smui/card';
+    import { storeAnimeListToUrl } from "../utils/url";
 
     export let anime: Anime;
 
     const addToWatchlist = () => {
         $watchlist = [... new Set([...$watchlist, anime])];
 
-        const animeGroups = {}
-        $watchlist.forEach(anime => {
-            const yearMonth = `${anime.year}${anime.month}`;
-            if (! (yearMonth in animeGroups)) {
-                animeGroups[yearMonth] = []
-            }
-            animeGroups[yearMonth].push(anime.id);
-        })
-        let newHash = "/v1";
-        for (let yearMonth in animeGroups) {
-            const animeIDs = animeGroups[yearMonth].join(",");
-            newHash += `/${yearMonth}=${animeIDs}`;
-        }
-        window.location.hash = newHash
+        storeAnimeListToUrl($watchlist);
     }
 </script>
 
