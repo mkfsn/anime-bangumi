@@ -3,8 +3,8 @@
     import Sidebar from "./components/Sidebar.svelte";
     import TopBar from "./components/TopBar.svelte";
     import {onMount} from "svelte";
-    import {Anime} from "./anime";
-    import { watchlist } from './watchlist.js';
+    import {Anime} from "./models/anime";
+    import { watchlist } from './stores/watchlist';
 
     const fetchYear = 2021, fetchMonth = 10;
 

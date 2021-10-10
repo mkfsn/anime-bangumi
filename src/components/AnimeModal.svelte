@@ -1,9 +1,9 @@
 <script lang="ts">
-    import {Anime} from "../anime";
+    import {Anime} from "../models/anime";
     import Dialog, { Header, Title, Content, Actions } from '@smui/dialog';
     import IconButton from '@smui/icon-button';
     import Button, { Label } from '@smui/button';
-    import {watchlist} from "../watchlist";
+    import {watchlist} from "../stores/watchlist";
 
     export let anime: Anime;
     export let open: boolean;

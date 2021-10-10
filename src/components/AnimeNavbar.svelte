@@ -1,5 +1,5 @@
 <script lang="ts">
-    import {Anime} from "../anime";
+    import {Anime} from "../models/anime";
     import AnimeNavbarItem from "./AnimeNavbarItem.svelte";
 
     export let animeList: Anime[];

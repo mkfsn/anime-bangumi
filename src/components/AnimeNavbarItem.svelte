@@ -1,6 +1,6 @@
 <script lang="ts">
-    import { Anime } from "../anime";
-    import { watchlist } from '../watchlist.js';
+    import { Anime } from "../models/anime";
+    import { watchlist } from '../stores/watchlist';
     import Card, {
         Media,
         MediaContent,

@@ -1,5 +1,5 @@
 <script lang="ts">
-    import {Anime} from "../anime";
+    import {Anime} from "../models/anime";
     import Card, {PrimaryAction, Media, MediaContent, Content} from '@smui/card';
     import AnimeModal from "./AnimeModal.svelte";
 

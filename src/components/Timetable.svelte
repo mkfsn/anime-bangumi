@@ -1,7 +1,7 @@
 <script lang="ts">
-    import {watchlist} from '../watchlist.js';
+    import {watchlist} from '../stores/watchlist';
     import {onDestroy} from 'svelte';
-    import {Anime} from "../anime";
+    import {Anime} from "../models/anime";
     import AnimeCard from "./AnimeCard.svelte";
 
     let animeGroups = [
