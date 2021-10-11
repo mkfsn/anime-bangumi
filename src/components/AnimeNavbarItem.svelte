@@ -1,8 +1,9 @@
 <script lang="ts">
     import { Anime } from "../models/anime";
-    import { watchlist } from '../stores/watchlist';
+    import { watchlistStore } from '../stores/watchlist';
     import Card, { Media, MediaContent } from '@smui/card';
     import { storeAnimeListToUrl } from "../utils/url";
+    const { watchlist } = watchlistStore;
 
     export let anime: Anime;
 

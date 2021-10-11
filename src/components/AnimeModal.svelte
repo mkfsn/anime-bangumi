@@ -3,8 +3,9 @@
     import Dialog, { Header, Title, Content, Actions } from '@smui/dialog';
     import IconButton from '@smui/icon-button';
     import Button, { Label } from '@smui/button';
-    import { watchlist } from "../stores/watchlist";
+    import { watchlistStore } from "../stores/watchlist";
     import { storeAnimeListToUrl } from "../utils/url";
+    const { watchlist } = watchlistStore;
 
     export let anime: Anime;
     export let open: boolean;

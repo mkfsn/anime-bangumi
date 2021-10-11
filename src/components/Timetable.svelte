@@ -1,8 +1,7 @@
 <script lang="ts">
-    import {watchlist} from '../stores/watchlist';
-    import {onDestroy} from 'svelte';
-    import {Anime} from "../models/anime";
+    import {watchlistStore} from '../stores/watchlist';
     import AnimeCard from "./AnimeCard.svelte";
+    const { animeListByWeekDay } = watchlistStore;
 
     let animeGroups = [
         [], [], [], [], [], [], []
@@ -41,29 +40,10 @@
         }
         return results;
     }
-
-    const unsubscribe = watchlist.subscribe(animeList => {
-        animeGroups = [[], [], [], [], [], [], []]
-
-        animeList.forEach((anime: Anime) => {
-            const onAirTime = anime.onAir.time;
-            if (onAirTime) {
-                let dateStr = onAirTime.toLocaleString('ja-JP', {timeZone: 'Asia/Tokyo'});
-                let onAirJST = new Date(dateStr);
-                onAirJST.setHours(onAirJST.getHours() - 6); // 30-hour clock
-                animeGroups[onAirJST.getDay()].push(anime);
-                // TODO: sort animeGroups[onAirJST.getDay()]
-            }
-        })
-    });
-
-    onDestroy(() => {
-        unsubscribe();
-    });
 </script>
 
 <div class="timetable">
-    {#each animeGroups as animeList, weekday}
+    {#each $animeListByWeekDay as animeList, weekday}
         <div class="weekday">
             <div class="header">
                 <div class="date" class:today={isToday(weekday)}>

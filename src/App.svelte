@@ -4,8 +4,9 @@
     import TopBar from "./components/TopBar.svelte";
     import { onMount } from "svelte";
     import { Anime } from "./models/anime";
-    import { watchlist } from './stores/watchlist';
+    import { watchlistStore } from './stores/watchlist';
     import { loadAnimeListFromUrl } from "./utils/url";
+    const { watchlist } = watchlistStore;
 
     let openSideBar = false;
     let animeList = [];
