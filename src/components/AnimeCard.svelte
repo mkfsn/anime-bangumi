@@ -17,7 +17,7 @@
                     <MediaContent class="media-content">
                         <div class="content-header">
                             <h4 class="mdc-typography--headline6" style="margin: 0;">
-                                {anime.name.chinese}
+                                {anime.name.japanese}
                             </h4>
                         </div>
                     </MediaContent>
