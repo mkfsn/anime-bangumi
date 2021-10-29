@@ -1786,128 +1786,6 @@
         ]
     },
     {
-        "id": "970",
-        "name": {
-            "japanese": "終末のハーレム",
-            "chinese": "終末的後宮"
-        },
-        "onAir": {
-            "spec": "播放日期：10月8日起／每週五／21時30分",
-            "time": "2021-10-08T21:30:00+09:00"
-        },
-        "copyright": "",
-        "story": "時間是西元2040年。罹患罕見疾病的青年．怜人在與青梅竹馬繪理沙相約再會之後接受了冷凍睡眠治療。過了５年後──怜人醒來之後等待他的卻是全世界99.9％的男性皆感染病毒而死，現存50億人口大多為女性的世界…！",
-        "castings": [
-            {
-                "character": "水原怜人",
-                "voiceActor": "市川太一"
-            },
-            {
-                "character": "周防美来",
-                "voiceActor": "白石晴香"
-            },
-            {
-                "character": "龍造寺朱音",
-                "voiceActor": "大地葉"
-            },
-            {
-                "character": "山田翠",
-                "voiceActor": "山根綺"
-            },
-            {
-                "character": "片桐麗亜",
-                "voiceActor": "渡部恵子"
-            },
-            {
-                "character": "黒田マリア",
-                "voiceActor": "小坂井祐莉絵"
-            },
-            {
-                "character": "水原まひる",
-                "voiceActor": "首藤志奈"
-            },
-            {
-                "character": "火野恭司",
-                "voiceActor": "江口拓也"
-            },
-            {
-                "character": "石動寧々子",
-                "voiceActor": "石上静香"
-            },
-            {
-                "character": "北山玲奈",
-                "voiceActor": "天野聡美"
-            },
-            {
-                "character": "土井翔太",
-                "voiceActor": "浦和希"
-            },
-            {
-                "character": "神谷花蓮",
-                "voiceActor": "竹達彩奈"
-            },
-            {
-                "character": "羽生柚希",
-                "voiceActor": "早瀬莉花"
-            },
-            {
-                "character": "柊春歌",
-                "voiceActor": "道井悠"
-            },
-            {
-                "character": "一条奈都",
-                "voiceActor": "愛原ありさ"
-            },
-            {
-                "character": "東堂晶",
-                "voiceActor": "飯田里穂"
-            },
-            {
-                "character": "黒田・レイン・ちふゆ",
-                "voiceActor": "高森奈津美"
-            }
-        ],
-        "staffs": [
-            {
-                "role": "原作",
-                "name": "LINK宵野コタロー"
-            },
-            {
-                "role": "導演",
-                "name": "信田ユウ"
-            },
-            {
-                "role": "劇本統籌",
-                "name": "高橋龍也"
-            },
-            {
-                "role": "人物設計",
-                "name": "小関雅"
-            },
-            {
-                "role": "音樂",
-                "name": "大川茂伸"
-            },
-            {
-                "role": "動畫製作",
-                "name": "Studio GOKUMIStudio五組AXsiZ"
-            }
-        ],
-        "images": [
-            {
-                "url": "https://static.acgsecrets.hk/img/cf/cfb37778a8eaefd666ca5a4cdf901e01/ca1f887fd673a49d577a1aea3a3aa02e317f19762bd8a11667f0a7e5360f48bd.jpg"
-            },
-            {
-                "url": "https://static.acgsecrets.hk/img/e1/e116deeeedce15a0b0341050c5d39450/8d0808a8f902b59c1ada831e9f8a067c62e06a93000bd5ff35dabad2d6938102.jpg",
-                "thumbnailUrl": "https://static.acgsecrets.hk/img/e1/e116deeeedce15a0b0341050c5d39450/8d0808a8f902b59c1ada831e9f8a067c62e06a93000bd5ff35dabad2d6938102-300x300.jpg"
-            },
-            {
-                "url": "https://static.acgsecrets.hk/img/cf/cfb37778a8eaefd666ca5a4cdf901e01/ca1f887fd673a49d577a1aea3a3aa02e317f19762bd8a11667f0a7e5360f48bd.jpg",
-                "thumbnailUrl": "https://static.acgsecrets.hk/img/cf/cfb37778a8eaefd666ca5a4cdf901e01/ca1f887fd673a49d577a1aea3a3aa02e317f19762bd8a11667f0a7e5360f48bd-300x300.jpg"
-            }
-        ]
-    },
-    {
         "id": "791",
         "name": {
             "japanese": "SELECTION PROJECT",
@@ -2997,6 +2875,22 @@
             {
                 "character": "I-LeS ガイ",
                 "voiceActor": "藤原夏海"
+            },
+            {
+                "character": "鉄塚 ガシン",
+                "voiceActor": "上村祐翔"
+            },
+            {
+                "character": "I-LeS ケイ",
+                "voiceActor": "石川由依"
+            },
+            {
+                "character": "紫々部 シオン",
+                "voiceActor": "市ノ瀬加那"
+            },
+            {
+                "character": "I-LeS ナユタ",
+                "voiceActor": "村田太志"
             }
         ],
         "staffs": [
