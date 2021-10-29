@@ -7,7 +7,7 @@
     let open = false;
 </script>
 
-<AnimeModal {anime} {open} />
+<AnimeModal {anime} bind:open={open} />
 
 <div class="card-display">
     <div class="card-container">
