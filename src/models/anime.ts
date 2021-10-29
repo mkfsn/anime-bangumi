@@ -39,6 +39,26 @@ class AnimeImage {
     }
 }
 
+class AnimeCasting {
+    character: string;
+    voiceActor: string;
+
+    constructor(init: AnimeCasting) {
+        this.character = init.character;
+        this.voiceActor = init.voiceActor;
+    }
+}
+
+class AnimeStaff {
+    role: string;
+    name: string;
+
+    constructor(init: AnimeStaff) {
+        this.role = init.role;
+        this.name = init.name;
+    }
+}
+
 class Anime {
     id: string;
     year?: number;
@@ -47,6 +67,9 @@ class Anime {
     onAir: AnimeOnAir;
     images: AnimeImage[];
     story: string;
+    copyright: string;
+    castings: AnimeCasting[];
+    staffs: AnimeStaff[];
 
     constructor(init: Anime, year?: number, month?: number) {
         this.id = init.id;
@@ -56,6 +79,9 @@ class Anime {
         this.onAir = init.onAir !== undefined ? new AnimeOnAir(init.onAir) : undefined;
         this.images = init.images !== undefined ? init.images.map(v => new AnimeImage(v)) : undefined;
         this.story = init.story;
+        this.copyright = init.copyright;
+        this.castings = init.castings !== undefined ? init.castings.map(v => new AnimeCasting(v)) : undefined;
+        this.staffs = init.staffs !== undefined ? init.staffs.map(v => new AnimeStaff(v)) : undefined;
     }
 }
 

@@ -36,6 +36,20 @@
         <IconButton action="close" class="material-icons">close</IconButton>
     </Header>
     <Content id="fullscreen-content">
+        <p>{anime.copyright}</p>
+        <p>{anime.story}</p>
+        <div>
+            <h4>Casting</h4>
+            {#each anime.castings as casting}
+                <p>{casting.character}:{casting.voiceActor}</p>
+            {/each}
+        </div>
+        <div>
+            <h4>Staff</h4>
+            {#each anime.staffs as staff}
+                <p>{staff.role}:{staff.name}</p>
+            {/each}
+        </div>
     </Content>
     <Actions>
         <Button action="remove">
